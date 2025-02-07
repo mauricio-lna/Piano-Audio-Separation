@@ -1,0 +1,15 @@
+name: audio_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter-book
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - librosa
+  - numpydoc
+  - pyyaml
+  - gradio
+  - gif
