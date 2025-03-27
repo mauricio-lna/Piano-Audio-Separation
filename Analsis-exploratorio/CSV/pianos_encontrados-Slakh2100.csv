@@ -1,0 +1,319 @@
+archivo,directorio,track_name,uuid,stem_id,instrumento,clase,plugin,programa
+metadata.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1a81ae092884234f3264e2f45927f00a,S02,Bright Acoustic Piano,Piano,the_giant_modern_studio.nkm,1
+metadata_1.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,0c3b7bf33cd3d67970ecfc06339bfc49,S06,Clavinet,Piano,scarbee_a_200.nkm,7
+metadata_10.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,9082d742f01b4d8f283620a3f7007be5,S02,Bright Acoustic Piano,Piano,concert_grand.nkm,1
+metadata_100.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,2ce40905099dadbf3c25573b77e212c9,S02,Acoustic Grand Piano,Piano,ragtime_piano.nkm,0
+metadata_100.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,2ce40905099dadbf3c25573b77e212c9,S05,Electric Piano 2,Piano,scarbee_clavinet_full.nkm,5
+metadata_101.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,cd5f2a070f3de778c8d2b94a8ffa3f6c,S02,Bright Acoustic Piano,Piano,harpsichord.nkm,1
+metadata_102.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,3f66c7d4e234b346b7b81eefa22e9500,S05,Electric Piano 2,Piano,scarbee_mark_I.nkm,5
+metadata_103.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,2cda565985b98222d71d342d77a2c041,S02,Electric Piano 1,Piano,scarbee_pianet.nkm,4
+metadata_103.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,2cda565985b98222d71d342d77a2c041,S08,Electric Piano 2,Piano,scarbee_mark_I.nkm,5
+metadata_104.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,70fb9f2cc582697ad4c1f72a550ed4df,S03,Bright Acoustic Piano,Piano,harpsichord.nkm,1
+metadata_105.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,ae9883762e38738327a2a95b291c6669,S07,Electric Piano 1,Piano,scarbee_clavinet_full.nkm,4
+metadata_105.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,ae9883762e38738327a2a95b291c6669,S10,Acoustic Grand Piano,Piano,ragtime_piano.nkm,0
+metadata_106.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,8e1cb07297961c4dfb02915a9aecf458,S01,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_106.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,8e1cb07297961c4dfb02915a9aecf458,S04,Acoustic Grand Piano,Piano,grand_piano.nkm,0
+metadata_107.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,698c7ed5056d4f6b1a453243e50f4071,S00,Electric Piano 2,Piano,wurly_ep.nkm,5
+metadata_107.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,698c7ed5056d4f6b1a453243e50f4071,S01,Electric Piano 2,Piano,wurly_ep.nkm,5
+metadata_108.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,fae3b961d4b0eed2196f83aa3f7b0272,S05,Electric Piano 2,Piano,scarbee_clavinet_full.nkm,5
+metadata_109.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,8c43c98a63cc8d2cedc8364cf4960545,S06,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_11.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,5e3fc014cdf94b134ec1295e4a190bd4,S03,Honky-tonk Piano,Piano,alicias_keys.nkm,3
+metadata_11.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,5e3fc014cdf94b134ec1295e4a190bd4,S04,Electric Piano 1,Piano,scarbee_a_200.nkm,4
+metadata_110.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,0fc7b179806c0632fe71726f5fc5b47b,S02,Electric Piano 1,Piano,scarbee_pianet.nkm,4
+metadata_111.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,83d649bd6de19aa620cb914993e32965,S03,Bright Acoustic Piano,Piano,the_giant_hard_and_tough.nkm,1
+metadata_112.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,927a6cc33776d3e0fe9bf1eb1b6d7a6f,S00,Bright Acoustic Piano,Piano,august_foerster_grand.nkm,1
+metadata_113.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,9eae5c827dff73854bd95ca01cb01879,S08,Bright Acoustic Piano,Piano,concert_grand.nkm,1
+metadata_114.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,6caf4aafa22828e29b840b2cde8f973c,S01,Electric Piano 2,Piano,scarbee_pianet.nkm,5
+metadata_115.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,11bf103d26a885136133aa6e031ff3e9,S00,Bright Acoustic Piano,Piano,the_giant_hard_and_tough.nkm,1
+metadata_116.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,430d42d427a4b89b77215614bab048ae,S01,Bright Acoustic Piano,Piano,harpsichord.nkm,1
+metadata_116.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,430d42d427a4b89b77215614bab048ae,S03,Bright Acoustic Piano,Piano,harpsichord.nkm,1
+metadata_116.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,430d42d427a4b89b77215614bab048ae,S11,Acoustic Grand Piano,Piano,the_giant_modern_studio.nkm,0
+metadata_117.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,7ffbfeada4036f244710280709dff2b3,S00,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_118.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,75acb1062f5e8daac599d3e94860d65b,S00,Bright Acoustic Piano,Piano,grand_piano.nkm,1
+metadata_118.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,75acb1062f5e8daac599d3e94860d65b,S06,Honky-tonk Piano,Piano,august_foerster_grand.nkm,3
+metadata_118.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,75acb1062f5e8daac599d3e94860d65b,S07,Honky-tonk Piano,Piano,august_foerster_grand.nkm,3
+metadata_119.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,da99ae118d2cc8cd4938b1d28627c136,S02,Electric Piano 2,Piano,scarbee_a_200.nkm,5
+metadata_119.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,da99ae118d2cc8cd4938b1d28627c136,S10,Electric Grand Piano,Piano,scarbee_a_200.nkm,2
+metadata_12.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,10b2949e44891af11187883262a9e060,S03,Electric Piano 1,Piano,scarbee_pianet.nkm,4
+metadata_120.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,783ee2aacbc238b3ee58a1f210a6c09d,S06,Electric Piano 2,Piano,scarbee_a_200.nkm,5
+metadata_121.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,33c644a46aa798f1c4c138476a2dea59,S01,Electric Piano 1,Piano,scarbee_mark_I.nkm,4
+metadata_122.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,534a05b898f4f3e51f6a8f66e05fd84d,S03,Harpsichord,Piano,august_foerster_grand.nkm,6
+metadata_123.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,b03d78e61a611bdccd17757a30149d7b,S01,Bright Acoustic Piano,Piano,the_giant_hard_and_tough.nkm,1
+metadata_123.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,b03d78e61a611bdccd17757a30149d7b,S06,Acoustic Grand Piano,Piano,the_giant_vibrant.nkm,0
+metadata_124.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,3937af6b42485ccf0106ab3edf004f32,S07,Bright Acoustic Piano,Piano,grand_piano.nkm,1
+metadata_125.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,987e69d7f5b1602d58eceedbb7d17f3a,S03,Electric Piano 1,Piano,scarbee_clavinet_full.nkm,4
+metadata_126.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,f0349a574bdd2d71156bf2d6aa964b33,S08,Electric Piano 2,Piano,scarbee_a_200.nkm,5
+metadata_127.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,59f058a3237b6781d882868c73cc2333,S03,Bright Acoustic Piano,Piano,concert_grand.nkm,1
+metadata_128.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,62f1690d327c6917f948555c49859b0e,S03,Clavinet,Piano,wurly_ep.nkm,7
+metadata_128.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,62f1690d327c6917f948555c49859b0e,S04,Bright Acoustic Piano,Piano,upright_piano.nkm,1
+metadata_128.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,62f1690d327c6917f948555c49859b0e,S11,Acoustic Grand Piano,Piano,grand_piano.nkm,0
+metadata_129.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,b6396a88ad66df96c31288a20979b42c,S02,Bright Acoustic Piano,Piano,grand_piano.nkm,1
+metadata_129.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,b6396a88ad66df96c31288a20979b42c,S03,Bright Acoustic Piano,Piano,grand_piano.nkm,1
+metadata_13.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,5db3e15bcdaf54d3335900d2aad30034,S05,Electric Piano 2,Piano,wurly_ep.nkm,5
+metadata_13.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,5db3e15bcdaf54d3335900d2aad30034,S10,Honky-tonk Piano,Piano,the_gentleman.nkm,3
+metadata_13.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,5db3e15bcdaf54d3335900d2aad30034,S11,Acoustic Grand Piano,Piano,the_giant_modern_studio.nkm,0
+metadata_130.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,5f2356ce74cbd2343a90c9426cc8f05a,S01,Bright Acoustic Piano,Piano,grand_piano.nkm,1
+metadata_131.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,9d704179d5239a564aaaa3b4343876ba,S00,Electric Piano 2,Piano,scarbee_pianet.nkm,5
+metadata_131.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,9d704179d5239a564aaaa3b4343876ba,S13,Clavinet,Piano,scarbee_pianet.nkm,7
+metadata_132.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,eee626113d86ce3238bef23a5a2a526e,S01,Bright Acoustic Piano,Piano,the_gentleman.nkm,1
+metadata_132.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,eee626113d86ce3238bef23a5a2a526e,S09,Electric Piano 1,Piano,scarbee_pianet.nkm,4
+metadata_133.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,5ce36d597797478527ff4cb807fbeed3,S06,Bright Acoustic Piano,Piano,the_grandeur.nkm,1
+metadata_134.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,2bb9f363184a1a6c3a931062ad7def0c,S00,Acoustic Grand Piano,Piano,alicias_keys.nkm,0
+metadata_134.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,2bb9f363184a1a6c3a931062ad7def0c,S02,Clavinet,Piano,scarbee_mark_I.nkm,7
+metadata_135.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,22826a680705378e69ba842cf1e3eef0,S02,Bright Acoustic Piano,Piano,harpsichord.nkm,1
+metadata_135.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,22826a680705378e69ba842cf1e3eef0,S09,Acoustic Grand Piano,Piano,the_giant_vibrant.nkm,0
+metadata_136.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,14cc26fe46c5dcbb139f89aaedcb5bc7,S04,Honky-tonk Piano,Piano,the_giant_hard_and_tough.nkm,3
+metadata_137.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,32a77aafb04ea1281a104e32f0e1718e,S01,Electric Piano 2,Piano,scarbee_pianet.nkm,5
+metadata_137.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,32a77aafb04ea1281a104e32f0e1718e,S02,Acoustic Grand Piano,Piano,the_gentleman.nkm,0
+metadata_138.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,9a4d3971fe584492a1da8b691aade15f,S04,Electric Piano 2,Piano,scarbee_a_200.nkm,5
+metadata_139.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,fb0cddcfd139aaca2e6fd28dbc7bb426,S08,Electric Piano 2,Piano,scarbee_mark_I.nkm,5
+metadata_14.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,44912b75e6a8d2c103587b3a2cdd19ec,S00,Bright Acoustic Piano,Piano,the_gentleman.nkm,1
+metadata_14.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,44912b75e6a8d2c103587b3a2cdd19ec,S06,Acoustic Grand Piano,Piano,grand_piano.nkm,0
+metadata_140.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,6958fc2876fe39a238324a930a8e5f4e,S01,Bright Acoustic Piano,Piano,upright_piano.nkm,1
+metadata_141.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,31111bd208b6de36eecf377ff18915d3,S02,Electric Piano 2,Piano,wurly_ep.nkm,5
+metadata_142.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,ade68ae2437c7daaccf303b4ca450d5a,S00,Bright Acoustic Piano,Piano,the_giant_vibrant.nkm,1
+metadata_142.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,ade68ae2437c7daaccf303b4ca450d5a,S06,Electric Piano 2,Piano,scarbee_clavinet_full.nkm,5
+metadata_143.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,e1ed7fd5cc3ce4e200056f1fcc1f49a3,S03,Electric Piano 2,Piano,scarbee_a_200.nkm,5
+metadata_144.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,896d0a524ad589c35c3b00dddbd02b1e,S01,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_144.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,896d0a524ad589c35c3b00dddbd02b1e,S02,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_145.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,50d8797b1175e4eaec2d46b07f62c50d,S02,Electric Piano 2,Piano,scarbee_mark_I.nkm,5
+metadata_146.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,271f161feed36e63f206094318ff7137,S04,Bright Acoustic Piano,Piano,august_foerster_grand.nkm,1
+metadata_147.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,e555e8fdc8e67bc5eff16c09c6a82319,S06,Electric Piano 2,Piano,wurly_ep.nkm,5
+metadata_148.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,8d03d113b9bccff23383e3d5c9141dd8,S02,Honky-tonk Piano,Piano,the_giant_modern_studio.nkm,3
+metadata_148.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,8d03d113b9bccff23383e3d5c9141dd8,S05,Acoustic Grand Piano,Piano,august_foerster_grand.nkm,0
+metadata_149.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1ca19599edf819f4769c618300d25095,S05,Clavinet,Piano,scarbee_a_200.nkm,7
+metadata_149.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1ca19599edf819f4769c618300d25095,S10,Acoustic Grand Piano,Piano,concert_grand.nkm,0
+metadata_149.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1ca19599edf819f4769c618300d25095,S11,Electric Piano 1,Piano,scarbee_clavinet_full.nkm,4
+metadata_15.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,da41ff8258131a291e36cec39b98c5f8,S00,Electric Piano 2,Piano,scarbee_clavinet_full.nkm,5
+metadata_15.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,da41ff8258131a291e36cec39b98c5f8,S10,Acoustic Grand Piano,Piano,upright_piano.nkm,0
+metadata_150.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,5eed5e18df5f82d7bf623689a88fb7a8,S03,Acoustic Grand Piano,Piano,grand_piano.nkm,0
+metadata_150.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,5eed5e18df5f82d7bf623689a88fb7a8,S07,Harpsichord,Piano,august_foerster_grand.nkm,6
+metadata_151.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,262cb00898ab9ab38be8b1ab3fbb4d99,S04,Honky-tonk Piano,Piano,august_foerster_grand.nkm,3
+metadata_151.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,262cb00898ab9ab38be8b1ab3fbb4d99,S06,Acoustic Grand Piano,Piano,harpsichord.nkm,0
+metadata_152.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,35f09d5dd799cefb8bc280f4066e1679,S06,Bright Acoustic Piano,Piano,ragtime_piano.nkm,1
+metadata_153.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,7bf757a0f55705563315bcaca726b27c,S02,Electric Piano 1,Piano,scarbee_clavinet_full.nkm,4
+metadata_154.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1254d4f081c025d9b1b7ac6e4d2ecf7c,S01,Bright Acoustic Piano,Piano,the_giant_modern_studio.nkm,1
+metadata_154.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1254d4f081c025d9b1b7ac6e4d2ecf7c,S08,Acoustic Grand Piano,Piano,august_foerster_grand.nkm,0
+metadata_155.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,dd652e9eee56252d91931a76245033d0,S01,Electric Grand Piano,Piano,scarbee_mark_I.nkm,2
+metadata_156.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,fb4b28b604b738ce73e6b35661c0a9d1,S01,Bright Acoustic Piano,Piano,august_foerster_grand.nkm,1
+metadata_157.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,702708bc27aea034cbe7f68cca2483e4,S02,Electric Piano 2,Piano,scarbee_pianet.nkm,5
+metadata_158.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,6cc70d544327b4cebbd65d5ff73a90b7,S00,Clavinet,Piano,scarbee_a_200.nkm,7
+metadata_158.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,6cc70d544327b4cebbd65d5ff73a90b7,S05,Clavinet,Piano,scarbee_a_200.nkm,7
+metadata_159.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,2cb0b781cbd2c2a2208654ab3b53f5f3,S03,Bright Acoustic Piano,Piano,upright_piano.nkm,1
+metadata_16.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,73e22d81fdaf62caa0b74cb7395c5cd8,S08,Honky-tonk Piano,Piano,upright_piano.nkm,3
+metadata_160.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,f670af08be4a433dca82e7f2e93bddfb,S01,Electric Piano 2,Piano,scarbee_clavinet_full.nkm,5
+metadata_161.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,89dcaa541ad8fec48954d51d038b01ee,S09,Electric Piano 1,Piano,scarbee_clavinet_full.nkm,4
+metadata_161.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,89dcaa541ad8fec48954d51d038b01ee,S15,Harpsichord,Piano,the_gentleman.nkm,6
+metadata_162.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,ecaa7cf6b54b3e4887dead95fcb2ce95,S02,Electric Grand Piano,Piano,scarbee_clavinet_full.nkm,2
+metadata_163.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,bf97a4fd680593d9a7c2403d7f15d01b,S03,Electric Piano 1,Piano,scarbee_pianet.nkm,4
+metadata_163.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,bf97a4fd680593d9a7c2403d7f15d01b,S10,Acoustic Grand Piano,Piano,the_giant_modern_studio.nkm,0
+metadata_164.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,af062befc8ee4bb7a3a2302b645895d9,S02,Electric Piano 1,Piano,scarbee_pianet.nkm,4
+metadata_164.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,af062befc8ee4bb7a3a2302b645895d9,S04,Acoustic Grand Piano,Piano,upright_piano.nkm,0
+metadata_165.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,89ec6303ba05f58e00644b6ee36140f8,S13,Acoustic Grand Piano,Piano,concert_grand.nkm,0
+metadata_165.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,89ec6303ba05f58e00644b6ee36140f8,S17,Electric Piano 2,Piano,scarbee_mark_I.nkm,5
+metadata_166.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,945826c02033d5ad1522be69fe1abe3a,S01,Electric Grand Piano,Piano,scarbee_a_200.nkm,2
+metadata_167.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,ee42bce8313c6855f268d057e17813e3,S11,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_167.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,ee42bce8313c6855f268d057e17813e3,S13,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_168.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,7d04ce80ba6523fcb9e8219a0d285aa4,S02,Electric Piano 1,Piano,scarbee_pianet.nkm,4
+metadata_168.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,7d04ce80ba6523fcb9e8219a0d285aa4,S07,Acoustic Grand Piano,Piano,ragtime_piano.nkm,0
+metadata_169.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,504fb499e26e117140c898de0d84b6ec,S01,Electric Piano 2,Piano,scarbee_a_200.nkm,5
+metadata_17.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,3cccac3e7cd68df8f01a1a61e6ef3172,S07,Bright Acoustic Piano,Piano,upright_piano.nkm,1
+metadata_17.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,3cccac3e7cd68df8f01a1a61e6ef3172,S08,Acoustic Grand Piano,Piano,the_grandeur.nkm,0
+metadata_17.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,3cccac3e7cd68df8f01a1a61e6ef3172,S09,Acoustic Grand Piano,Piano,the_grandeur.nkm,0
+metadata_170.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,a9582bedbd63a4785254ef41e40a24e4,S02,Honky-tonk Piano,Piano,the_gentleman.nkm,3
+metadata_171.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,78643c75cf38f054218278b4e91be052,S04,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_172.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,0328c63345ad1cb348df30ee7d72bea4,S01,Bright Acoustic Piano,Piano,upright_piano.nkm,1
+metadata_172.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,0328c63345ad1cb348df30ee7d72bea4,S05,Electric Piano 1,Piano,scarbee_a_200.nkm,4
+metadata_172.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,0328c63345ad1cb348df30ee7d72bea4,S14,Acoustic Grand Piano,Piano,harpsichord.nkm,0
+metadata_173.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,5fe382c93e8820a4bdf0d76d4bd682b4,S02,Clavinet,Piano,wurly_ep.nkm,7
+metadata_173.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,5fe382c93e8820a4bdf0d76d4bd682b4,S11,Electric Grand Piano,Piano,scarbee_mark_I.nkm,2
+metadata_174.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,9e75b2ca24beab2b93aec0bd068ce920,S03,Electric Piano 2,Piano,scarbee_a_200.nkm,5
+metadata_174.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,9e75b2ca24beab2b93aec0bd068ce920,S09,Bright Acoustic Piano,Piano,the_grandeur.nkm,1
+metadata_175.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,dac40a013a1d6f064341459f3e57dbeb,S01,Electric Piano 1,Piano,scarbee_pianet.nkm,4
+metadata_176.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,29ea13be7dfe7e3361cedce59dd93c7a,S01,Electric Piano 2,Piano,scarbee_a_200.nkm,5
+metadata_177.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,37dac937c5778a7d1ca035eeed816ccd,S04,Acoustic Grand Piano,Piano,the_gentleman.nkm,0
+metadata_177.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,37dac937c5778a7d1ca035eeed816ccd,S13,Bright Acoustic Piano,Piano,upright_piano.nkm,1
+metadata_178.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,30e92937c92afeceacee49a10f5540ec,S00,Bright Acoustic Piano,Piano,alicias_keys.nkm,1
+metadata_179.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,6e268cc5bc6a29ad6d585c9b3b2e5894,S00,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_179.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,6e268cc5bc6a29ad6d585c9b3b2e5894,S04,Acoustic Grand Piano,Piano,the_grandeur.nkm,0
+metadata_18.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,97b8605f3e1d96872fcd3f9829cd13db,S01,Electric Piano 1,Piano,scarbee_pianet.nkm,4
+metadata_18.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,97b8605f3e1d96872fcd3f9829cd13db,S12,Acoustic Grand Piano,Piano,upright_piano.nkm,0
+metadata_180.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,17ff4b4b4e1567b522148d5d10c8fb78,S02,Electric Piano 1,Piano,scarbee_a_200.nkm,4
+metadata_180.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,17ff4b4b4e1567b522148d5d10c8fb78,S03,Acoustic Grand Piano,Piano,alicias_keys.nkm,0
+metadata_181.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,0c97678ed061adb5bfb020099f03a353,S06,Electric Piano 2,Piano,scarbee_pianet.nkm,5
+metadata_182.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,0f521affcd765eec05bfd8e46aaf9bcd,S03,Electric Piano 2,Piano,scarbee_a_200.nkm,5
+metadata_182.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,0f521affcd765eec05bfd8e46aaf9bcd,S09,Clavinet,Piano,scarbee_a_200.nkm,7
+metadata_183.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,fca8294692b43692dcf64d6952bfe713,S01,Acoustic Grand Piano,Piano,the_giant_modern_studio.nkm,0
+metadata_183.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,fca8294692b43692dcf64d6952bfe713,S03,Electric Piano 2,Piano,scarbee_clavinet_full.nkm,5
+metadata_183.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,fca8294692b43692dcf64d6952bfe713,S08,Bright Acoustic Piano,Piano,august_foerster_grand.nkm,1
+metadata_184.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,fd18287e67533b346dafa4c591e92d8b,S01,Bright Acoustic Piano,Piano,upright_piano.nkm,1
+metadata_184.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,fd18287e67533b346dafa4c591e92d8b,S07,Acoustic Grand Piano,Piano,the_giant_modern_studio.nkm,0
+metadata_185.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,98c2fe100102e853d293cec2353e35bc,S01,Bright Acoustic Piano,Piano,concert_grand.nkm,1
+metadata_185.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,98c2fe100102e853d293cec2353e35bc,S08,Acoustic Grand Piano,Piano,the_grandeur.nkm,0
+metadata_186.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,63182905f677b4cdc4a62ebf75f52a8e,S05,Electric Grand Piano,Piano,scarbee_mark_I.nkm,2
+metadata_187.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,baf99ff0d1424f1ecd43cf9a08c6d6ad,S10,Bright Acoustic Piano,Piano,upright_piano.nkm,1
+metadata_188.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,a5dca4f953a264b23378d1ce0c4b98a9,S00,Electric Piano 2,Piano,scarbee_clavinet_full.nkm,5
+metadata_189.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,d2fb87c377a574baed606036457aa62a,S03,Electric Piano 2,Piano,scarbee_pianet.nkm,5
+metadata_19.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,07c88cc63a18e88194ceb9e05232b02e,S03,Acoustic Grand Piano,Piano,grand_piano.nkm,0
+metadata_19.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,07c88cc63a18e88194ceb9e05232b02e,S06,Electric Piano 1,Piano,scarbee_mark_I.nkm,4
+metadata_190.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,72c2fed05482619a7af9c0d1aa6a24a4,S01,Harpsichord,Piano,upright_piano.nkm,6
+metadata_190.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,72c2fed05482619a7af9c0d1aa6a24a4,S07,Clavinet,Piano,scarbee_clavinet_full.nkm,7
+metadata_191.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,6c15137a6bcc4568dcb3d43ebc71675e,S03,Electric Grand Piano,Piano,scarbee_clavinet_full.nkm,2
+metadata_192.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,95b8509159528d9101bb1f020f01e939,S00,Harpsichord,Piano,august_foerster_grand.nkm,6
+metadata_193.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,a720b4a16d3bbc8bac43ed9e6466f7b1,S03,Electric Piano 2,Piano,scarbee_pianet.nkm,5
+metadata_194.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,f796647e6d0a92395eacff593ada8ef9,S05,Acoustic Grand Piano,Piano,august_foerster_grand.nkm,0
+metadata_194.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,f796647e6d0a92395eacff593ada8ef9,S11,Honky-tonk Piano,Piano,grand_piano.nkm,3
+metadata_195.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,05c13252ee5b8c74fddf0db0b9c1597c,S01,Bright Acoustic Piano,Piano,upright_piano.nkm,1
+metadata_195.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,05c13252ee5b8c74fddf0db0b9c1597c,S08,Electric Piano 1,Piano,scarbee_mark_I.nkm,4
+metadata_196.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,6e245ba51c8c791abea7a4799de7a048,S01,Bright Acoustic Piano,Piano,concert_grand.nkm,1
+metadata_197.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,f99ef3257e7f00db3f126f2db32fd2ab,S03,Clavinet,Piano,scarbee_mark_I.nkm,7
+metadata_197.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,f99ef3257e7f00db3f126f2db32fd2ab,S12,Electric Piano 1,Piano,scarbee_a_200.nkm,4
+metadata_198.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,797a998925f8331e4643c6b063c00849,S04,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_198.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,797a998925f8331e4643c6b063c00849,S06,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_198.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,797a998925f8331e4643c6b063c00849,S09,Electric Piano 2,Piano,scarbee_clavinet_full.nkm,5
+metadata_199.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,dc16bd297c21624b491f61a98ec46801,S01,Acoustic Grand Piano,Piano,the_grandeur.nkm,0
+metadata_199.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,dc16bd297c21624b491f61a98ec46801,S03,Electric Piano 2,Piano,scarbee_pianet.nkm,5
+metadata_2.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,136e224ff9848e53c33322f58d58f1b3,S00,Bright Acoustic Piano,Piano,the_grandeur.nkm,1
+metadata_20.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,3346642dd3941a11aaccdf1b24ae10aa,S02,Honky-tonk Piano,Piano,the_giant_vibrant.nkm,3
+metadata_20.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,3346642dd3941a11aaccdf1b24ae10aa,S03,Electric Grand Piano,Piano,scarbee_clavinet_full.nkm,2
+metadata_200.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,4f87800eb57fde16c81f362e5e23d514,S07,Electric Piano 2,Piano,scarbee_pianet.nkm,5
+metadata_21.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,25c3e4ebabeaf38978e350315aa46d63,S11,Bright Acoustic Piano,Piano,harpsichord.nkm,1
+metadata_21.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,25c3e4ebabeaf38978e350315aa46d63,S12,Bright Acoustic Piano,Piano,harpsichord.nkm,1
+metadata_21.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,25c3e4ebabeaf38978e350315aa46d63,S17,Bright Acoustic Piano,Piano,harpsichord.nkm,1
+metadata_22.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,a591e9edfa51b184979e98fdb75527fb,S00,Bright Acoustic Piano,Piano,concert_grand.nkm,1
+metadata_23.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,15581f43db5f2a3d1e942c99a889a34e,S04,Electric Grand Piano,Piano,wurly_ep.nkm,2
+metadata_24.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,a11db0ab1d63e55c68cc9f3e2217148c,S00,Bright Acoustic Piano,Piano,alicias_keys.nkm,1
+metadata_24.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,a11db0ab1d63e55c68cc9f3e2217148c,S04,Acoustic Grand Piano,Piano,harpsichord.nkm,0
+metadata_25.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,3bcd7e0cc20adcc8dc3e912623bb0e1b,S04,Bright Acoustic Piano,Piano,the_grandeur.nkm,1
+metadata_26.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,81b063a62dedcd3e12180bbe553b8e4e,S08,Electric Piano 1,Piano,scarbee_pianet.nkm,4
+metadata_26.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,81b063a62dedcd3e12180bbe553b8e4e,S10,Bright Acoustic Piano,Piano,the_giant_modern_studio.nkm,1
+metadata_27.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1933336d8c139fe3b325cd061e811279,S00,Bright Acoustic Piano,Piano,the_gentleman.nkm,1
+metadata_27.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1933336d8c139fe3b325cd061e811279,S01,Electric Grand Piano,Piano,scarbee_a_200.nkm,2
+metadata_27.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1933336d8c139fe3b325cd061e811279,S12,Electric Piano 2,Piano,wurly_ep.nkm,5
+metadata_28.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,91bbd8c873f3181b6a21737745739bb8,S01,Bright Acoustic Piano,Piano,grand_piano.nkm,1
+metadata_28.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,91bbd8c873f3181b6a21737745739bb8,S02,Electric Grand Piano,Piano,scarbee_mark_I.nkm,2
+metadata_29.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,af38db37260ffcfbd07d309ab979eabe,S02,Electric Piano 2,Piano,scarbee_mark_I.nkm,5
+metadata_29.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,af38db37260ffcfbd07d309ab979eabe,S03,Electric Piano 2,Piano,scarbee_mark_I.nkm,5
+metadata_3.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,c613ddce3ded35d2e8cadf3511a1ffb9,S06,Harpsichord,Piano,the_gentleman.nkm,6
+metadata_3.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,c613ddce3ded35d2e8cadf3511a1ffb9,S07,Acoustic Grand Piano,Piano,the_gentleman.nkm,0
+metadata_30.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,406d87403b7fdf07d3c7120a416dc48c,S03,Electric Piano 2,Piano,wurly_ep.nkm,5
+metadata_30.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,406d87403b7fdf07d3c7120a416dc48c,S08,Bright Acoustic Piano,Piano,the_grandeur.nkm,1
+metadata_31.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,ecbc4fff2d73dcb3be187ac583a3419f,S04,Harpsichord,Piano,the_gentleman.nkm,6
+metadata_32.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,db23a53d3afd0d0f05a516c34a837b80,S02,Acoustic Grand Piano,Piano,the_giant_vibrant.nkm,0
+metadata_32.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,db23a53d3afd0d0f05a516c34a837b80,S07,Electric Piano 2,Piano,wurly_ep.nkm,5
+metadata_33.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,8c8e07fcf683001f31c3f4164d9a0d75,S01,Electric Grand Piano,Piano,scarbee_clavinet_full.nkm,2
+metadata_33.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,8c8e07fcf683001f31c3f4164d9a0d75,S02,Electric Grand Piano,Piano,scarbee_clavinet_full.nkm,2
+metadata_34.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,ce1f25b781ac11335206500f2636b8f0,S00,Bright Acoustic Piano,Piano,the_giant_modern_studio.nkm,1
+metadata_35.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,0a802d60bcbda3f94a0f689ba19d8512,S02,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_35.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,0a802d60bcbda3f94a0f689ba19d8512,S04,Acoustic Grand Piano,Piano,the_giant_modern_studio.nkm,0
+metadata_36.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,8b2c72868e5a3b67948a8fc045114779,S03,Electric Piano 2,Piano,scarbee_clavinet_full.nkm,5
+metadata_37.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,754959340c2beaa3e86c699e22ae3f17,S04,Acoustic Grand Piano,Piano,the_giant_vibrant.nkm,0
+metadata_37.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,754959340c2beaa3e86c699e22ae3f17,S11,Electric Piano 1,Piano,scarbee_mark_I.nkm,4
+metadata_38.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,d2837554f71b15ab12b0e7f2564c1607,S01,Acoustic Grand Piano,Piano,upright_piano.nkm,0
+metadata_38.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,d2837554f71b15ab12b0e7f2564c1607,S04,Bright Acoustic Piano,Piano,august_foerster_grand.nkm,1
+metadata_39.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,e72f54620e659874ac67ca5ca32c89dd,S07,Electric Piano 1,Piano,scarbee_a_200.nkm,4
+metadata_4.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,ecda548334fd9ab77510536e75238bbd,S02,Acoustic Grand Piano,Piano,alicias_keys.nkm,0
+metadata_4.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,ecda548334fd9ab77510536e75238bbd,S06,Electric Piano 2,Piano,scarbee_clavinet_full.nkm,5
+metadata_40.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,768e76c1dc41c58d44534f1e09036dc4,S01,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_41.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,2962a1492415ae154e6214c07ea9950c,S00,Bright Acoustic Piano,Piano,the_giant_modern_studio.nkm,1
+metadata_42.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,4ab4b31bde788e0088288c6e1d7b8faf,S01,Electric Piano 2,Piano,scarbee_clavinet_full.nkm,5
+metadata_43.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,eb125e4c8ddf36ff026a8fc8543a8d45,S09,Clavinet,Piano,scarbee_a_200.nkm,7
+metadata_43.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,eb125e4c8ddf36ff026a8fc8543a8d45,S11,Electric Piano 2,Piano,scarbee_pianet.nkm,5
+metadata_43.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,eb125e4c8ddf36ff026a8fc8543a8d45,S13,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_44.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,9128e05a0885476ca6880b2d7ec20f06,S02,Acoustic Grand Piano,Piano,ragtime_piano.nkm,0
+metadata_44.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,9128e05a0885476ca6880b2d7ec20f06,S04,Bright Acoustic Piano,Piano,harpsichord.nkm,1
+metadata_44.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,9128e05a0885476ca6880b2d7ec20f06,S05,Electric Piano 2,Piano,scarbee_mark_I.nkm,5
+metadata_45.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,fa27d2907356a8c4c7c483b293d3889a,S02,Acoustic Grand Piano,Piano,the_giant_modern_studio.nkm,0
+metadata_45.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,fa27d2907356a8c4c7c483b293d3889a,S04,Honky-tonk Piano,Piano,the_gentleman.nkm,3
+metadata_46.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,88fa4921b95e1b2be457950c512829b5,S04,Electric Piano 2,Piano,scarbee_clavinet_full.nkm,5
+metadata_47.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,d56eb5e53d17831cdc0c3361dd238f3d,S08,Bright Acoustic Piano,Piano,the_grandeur.nkm,1
+metadata_48.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1f5f91329bbc8c07d36643a8b86db0ad,S01,Electric Grand Piano,Piano,wurly_ep.nkm,2
+metadata_49.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,2e01aae4778ad04030369e052b7976e3,S02,Electric Piano 1,Piano,scarbee_clavinet_full.nkm,4
+metadata_5.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,9f5777783d38d7d494e03e75698d2d1d,S01,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_50.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,8d45c73ec99f34561ee2fc532d588f68,S05,Electric Piano 2,Piano,scarbee_pianet.nkm,5
+metadata_50.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,8d45c73ec99f34561ee2fc532d588f68,S08,Electric Piano 1,Piano,scarbee_pianet.nkm,4
+metadata_51.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,ec3b06bc8f2f4bc7af997215f4315560,S01,Bright Acoustic Piano,Piano,august_foerster_grand.nkm,1
+metadata_52.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,8d1704ab276e6a5ebd63f424349438a1,S02,Electric Piano 1,Piano,scarbee_a_200.nkm,4
+metadata_52.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,8d1704ab276e6a5ebd63f424349438a1,S03,Acoustic Grand Piano,Piano,the_grandeur.nkm,0
+metadata_53.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,a20eaa0c910a3e4484121c77c5ff4401,S01,Clavinet,Piano,scarbee_clavinet_full.nkm,7
+metadata_54.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,eaa4b3b3b980fe272fb22bed83fabb7d,S03,Electric Piano 1,Piano,scarbee_mark_I.nkm,4
+metadata_54.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,eaa4b3b3b980fe272fb22bed83fabb7d,S10,Acoustic Grand Piano,Piano,harpsichord.nkm,0
+metadata_55.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,467fc036a556a05c48383aca6456c962,S05,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_56.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,bc9f3e43358f55213e65b97e405d1955,S01,Electric Piano 2,Piano,scarbee_pianet.nkm,5
+metadata_56.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,bc9f3e43358f55213e65b97e405d1955,S09,Acoustic Grand Piano,Piano,ragtime_piano.nkm,0
+metadata_57.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,e6660f64c9bec66c85716cb45217487f,S05,Acoustic Grand Piano,Piano,concert_grand.nkm,0
+metadata_57.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,e6660f64c9bec66c85716cb45217487f,S08,Electric Piano 1,Piano,scarbee_a_200.nkm,4
+metadata_57.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,e6660f64c9bec66c85716cb45217487f,S12,Acoustic Grand Piano,Piano,concert_grand.nkm,0
+metadata_58.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,29fed6b22848530bc33447f542cd809f,S00,Bright Acoustic Piano,Piano,the_grandeur.nkm,1
+metadata_59.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,66d78d7b4468fcb128be831ebc1ebe48,S02,Electric Piano 2,Piano,scarbee_mark_I.nkm,5
+metadata_6.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1c06b0b2cd06544d9964c18e97ce3e97,S01,Bright Acoustic Piano,Piano,grand_piano.nkm,1
+metadata_6.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1c06b0b2cd06544d9964c18e97ce3e97,S03,Electric Piano 1,Piano,scarbee_clavinet_full.nkm,4
+metadata_6.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1c06b0b2cd06544d9964c18e97ce3e97,S08,Bright Acoustic Piano,Piano,grand_piano.nkm,1
+metadata_60.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,8cd375fa8106697cb4416c18b6d128be,S02,Bright Acoustic Piano,Piano,the_grandeur.nkm,1
+metadata_61.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,b94e2131c579f63e4ddadd415ca8354c,S02,Bright Acoustic Piano,Piano,harpsichord.nkm,1
+metadata_61.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,b94e2131c579f63e4ddadd415ca8354c,S07,Bright Acoustic Piano,Piano,harpsichord.nkm,1
+metadata_62.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,7f08db979df8c509644530e6a1a696cf,S02,Electric Piano 2,Piano,scarbee_a_200.nkm,5
+metadata_63.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,0700cf9128a43d4eb7ed68235610f11b,S03,Bright Acoustic Piano,Piano,the_gentleman.nkm,1
+metadata_64.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,e6751a8732dc00839c3f5b653033a9b1,S09,Acoustic Grand Piano,Piano,grand_piano.nkm,0
+metadata_64.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,e6751a8732dc00839c3f5b653033a9b1,S10,Bright Acoustic Piano,Piano,concert_grand.nkm,1
+metadata_65.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,3659262e284493bea5b6d968ed74947d,S06,Electric Piano 2,Piano,scarbee_mark_I.nkm,5
+metadata_66.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1785239ed9d5068612a3efd36b5452d7,S01,Bright Acoustic Piano,Piano,upright_piano.nkm,1
+metadata_67.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,c0cc573bb12d1fc399df8af0c721b9c2,S00,Electric Grand Piano,Piano,wurly_ep.nkm,2
+metadata_67.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,c0cc573bb12d1fc399df8af0c721b9c2,S01,Electric Grand Piano,Piano,wurly_ep.nkm,2
+metadata_68.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,60c458412d233684010b909c39c20159,S10,Bright Acoustic Piano,Piano,ragtime_piano.nkm,1
+metadata_69.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,59b3f92d798a19ae60fd34c2471cb501,S01,Harpsichord,Piano,the_giant_vibrant.nkm,6
+metadata_69.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,59b3f92d798a19ae60fd34c2471cb501,S07,Acoustic Grand Piano,Piano,concert_grand.nkm,0
+metadata_7.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,513716f352806601367d549bd0bb373e,S02,Electric Piano 2,Piano,scarbee_mark_I.nkm,5
+metadata_7.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,513716f352806601367d549bd0bb373e,S05,Acoustic Grand Piano,Piano,ragtime_piano.nkm,0
+metadata_70.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,a7ef72ce72eec13eda057b0b5aac4e58,S00,Electric Piano 2,Piano,scarbee_a_200.nkm,5
+metadata_71.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,a4fe4348a9e7fa2c1f88c14ab545f920,S06,Electric Piano 2,Piano,scarbee_mark_I.nkm,5
+metadata_72.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,984755b92fd3770b21b12e17731f3609,S07,Electric Piano 1,Piano,scarbee_mark_I.nkm,4
+metadata_72.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,984755b92fd3770b21b12e17731f3609,S08,Acoustic Grand Piano,Piano,ragtime_piano.nkm,0
+metadata_73.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1abb07c3afc5f8fd0aef40e21c5e37ad,S00,Bright Acoustic Piano,Piano,the_grandeur.nkm,1
+metadata_73.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1abb07c3afc5f8fd0aef40e21c5e37ad,S01,Harpsichord,Piano,the_giant_hard_and_tough.nkm,6
+metadata_74.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,f101907faf53868f05170fabda5f535d,S00,Bright Acoustic Piano,Piano,concert_grand.nkm,1
+metadata_75.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,3e84e49d92a44ebc552c6f798109496a,S01,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_76.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,66c8bb3c8599791629824a4f4f45c812,S01,Electric Piano 2,Piano,scarbee_a_200.nkm,5
+metadata_77.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,eb8be8df1f90c6a03687e0498e54aae5,S01,Electric Piano 1,Piano,scarbee_mark_I.nkm,4
+metadata_78.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,77d955b42bb51a996c4f361f60bbacaf,S00,Acoustic Grand Piano,Piano,the_giant_vibrant.nkm,0
+metadata_78.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,77d955b42bb51a996c4f361f60bbacaf,S04,Clavinet,Piano,scarbee_mark_I.nkm,7
+metadata_79.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,c17a8407e3cca14a158e9a75a34694bb,S01,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_8.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,b2be296505fd61a73ae03a0a9a8cbe05,S00,Bright Acoustic Piano,Piano,the_giant_modern_studio.nkm,1
+metadata_80.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,09f0db50dc8ab1d53f6489737f6eb41f,S04,Bright Acoustic Piano,Piano,august_foerster_grand.nkm,1
+metadata_80.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,09f0db50dc8ab1d53f6489737f6eb41f,S08,Acoustic Grand Piano,Piano,the_gentleman.nkm,0
+metadata_81.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,5bffcbf545497f8188e3f9c4f44ac8e3,S01,Harpsichord,Piano,alicias_keys.nkm,6
+metadata_81.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,5bffcbf545497f8188e3f9c4f44ac8e3,S09,Acoustic Grand Piano,Piano,harpsichord.nkm,0
+metadata_82.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,a5fa6d6937cdadbf475079bf788d4e94,S00,Acoustic Grand Piano,Piano,august_foerster_grand.nkm,0
+metadata_82.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,a5fa6d6937cdadbf475079bf788d4e94,S11,Electric Piano 1,Piano,scarbee_pianet.nkm,4
+metadata_83.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,4dcf616246d05428550c4b026a8b84fe,S01,Bright Acoustic Piano,Piano,concert_grand.nkm,1
+metadata_83.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,4dcf616246d05428550c4b026a8b84fe,S05,Electric Piano 1,Piano,scarbee_pianet.nkm,4
+metadata_83.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,4dcf616246d05428550c4b026a8b84fe,S14,Acoustic Grand Piano,Piano,august_foerster_grand.nkm,0
+metadata_84.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,34bca857c25ce601b486f34abac0adb7,S02,Electric Piano 1,Piano,scarbee_pianet.nkm,4
+metadata_84.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,34bca857c25ce601b486f34abac0adb7,S05,Electric Piano 1,Piano,scarbee_pianet.nkm,4
+metadata_85.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1ff1add174f43f136f4a32dcc3bc0a71,S07,Harpsichord,Piano,the_gentleman.nkm,6
+metadata_85.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,1ff1add174f43f136f4a32dcc3bc0a71,S09,Acoustic Grand Piano,Piano,the_grandeur.nkm,0
+metadata_86.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,2223119e52967f45c77de2c401f8102e,S00,Bright Acoustic Piano,Piano,the_grandeur.nkm,1
+metadata_87.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,af6332710861c9d83f8a18a49d0032e3,S03,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_87.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,af6332710861c9d83f8a18a49d0032e3,S04,Electric Piano 2,Piano,scarbee_mark_I.nkm,5
+metadata_88.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,44ce55cc2aeb592f6736e6ee2742f95d,S04,Electric Piano 1,Piano,wurly_ep.nkm,4
+metadata_89.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,326b121f8ee8c29430524e0391380e06,S07,Electric Piano 1,Piano,scarbee_pianet.nkm,4
+metadata_9.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,763348b79ed855fa294a7c980392178b,S05,Honky-tonk Piano,Piano,the_gentleman.nkm,3
+metadata_90.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,6ebb3eeb1744b747ac09f94538b17727,S00,Acoustic Grand Piano,Piano,the_giant_hard_and_tough.nkm,0
+metadata_90.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,6ebb3eeb1744b747ac09f94538b17727,S02,Electric Piano 2,Piano,scarbee_pianet.nkm,5
+metadata_91.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,38cbf6d7db4b7ab6acb70a7aad6c987c,S01,Bright Acoustic Piano,Piano,the_grandeur.nkm,1
+metadata_92.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,078e80dc1330fbce7395c2df26c077c7,S03,Electric Grand Piano,Piano,scarbee_mark_I.nkm,2
+metadata_93.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,2d8c906d44b5f51a169ea3c9dd372290,S07,Bright Acoustic Piano,Piano,upright_piano.nkm,1
+metadata_93.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,2d8c906d44b5f51a169ea3c9dd372290,S13,Bright Acoustic Piano,Piano,upright_piano.nkm,1
+metadata_94.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,89b7fbcf9b84fe097f066dade78232e0,S00,Electric Piano 1,Piano,scarbee_mark_I.nkm,4
+metadata_95.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,7a5325dc4c3ae1e0f9e0e327b440ead4,S00,Acoustic Grand Piano,Piano,grand_piano.nkm,0
+metadata_95.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,7a5325dc4c3ae1e0f9e0e327b440ead4,S05,Electric Piano 2,Piano,scarbee_a_200.nkm,5
+metadata_96.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,a1f0d5aea8c50f29fe586bf10974cf51,S02,Electric Piano 2,Piano,scarbee_pianet.nkm,5
+metadata_96.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,a1f0d5aea8c50f29fe586bf10974cf51,S07,Electric Piano 1,Piano,scarbee_mark_I.nkm,4
+metadata_97.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,a3235841b048cd52cfe4a696def6c1d6,S01,Bright Acoustic Piano,Piano,the_giant_modern_studio.nkm,1
+metadata_97.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,a3235841b048cd52cfe4a696def6c1d6,S02,Electric Grand Piano,Piano,scarbee_clavinet_full.nkm,2
+metadata_98.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,d024a9db43b730e527254a7db3ba046e,S03,Bright Acoustic Piano,Piano,august_foerster_grand.nkm,1
+metadata_98.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,d024a9db43b730e527254a7db3ba046e,S04,Bright Acoustic Piano,Piano,august_foerster_grand.nkm,1
+metadata_98.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,d024a9db43b730e527254a7db3ba046e,S07,Honky-tonk Piano,Piano,concert_grand.nkm,3
+metadata_99.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,5629edf81d872e4f41b95e82f3347904,S08,Electric Grand Piano,Piano,scarbee_mark_I.nkm,2
+metadata_99.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,5629edf81d872e4f41b95e82f3347904,S09,Honky-tonk Piano,Piano,august_foerster_grand.nkm,3
+metadata_99.yaml,D:\src\Piano-Audio-Separation\Analsis-exploratorio\YAML\Slakh2100,Slakh2100,5629edf81d872e4f41b95e82f3347904,S10,Acoustic Grand Piano,Piano,august_foerster_grand.nkm,0

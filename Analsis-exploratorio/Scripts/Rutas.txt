@@ -1,0 +1,2 @@
+D:\src\Piano-Audio-Separation\Analsis-exploratorio\Scripts\MedleyDB-piano.csv
+D:\src\Piano-Audio-Separation\Analsis-exploratorio\Scripts\MedleyDB-no-duplicados.csv
