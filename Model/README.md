@@ -10,10 +10,6 @@ conda env create -f environment.yml
 
 conda activate audio_env
 
-#### Instalar Scaper y jupyter notebook (no vienen por default en el repositorio de Conda)
-
-pip install scaper
-
 ### Desactivar Entorno
 
 conda deactivate

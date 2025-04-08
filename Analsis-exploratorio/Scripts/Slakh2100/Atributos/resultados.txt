@@ -1,0 +1,22 @@
+Tipos de inst_class encontrados:
+
+Guitar: 506 (22.47%)
+Strings (continued): 339 (15.05%)
+Piano: 318 (14.12%)
+Bass: 244 (10.83%)
+Drums: 201 (8.93%)
+Brass: 100 (4.44%)
+Synth Pad: 88 (3.91%)
+Organ: 81 (3.60%)
+Reed: 81 (3.60%)
+Pipe: 73 (3.24%)
+Synth Lead: 58 (2.58%)
+Chromatic Percussion: 43 (1.91%)
+Strings: 39 (1.73%)
+Sound effects: 29 (1.29%)
+Sound Effects: 23 (1.02%)
+Ethnic: 16 (0.71%)
+Percussive: 13 (0.58%)
+
+Total de inst_class: 2252
+Archivos YAML procesados: 201/201
