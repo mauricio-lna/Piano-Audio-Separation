@@ -1,15 +1,18 @@
 name: audio_env
 channels:
-  - conda-forge
   - defaults
+  - conda-forge
 dependencies:
-  - python=3.9
-  - jupyter-book
-  - jupyterlab
-  - matplotlib
-  - numpy
-  - librosa
-  - numpydoc
-  - pyyaml
-  - gradio
-  - gif
+  - python=3.6
+  - numpy<2
+  - scipy<1
+  - ipykernel
+  - ffmpeg
+  - pip
+  - ipython # Instalado con Conda
+  - pip:
+      - stempeg
+      - sox
+      - numba==0.48
+      - librosa # Puedes instalarlo explícitamente con pip
+      - nussl

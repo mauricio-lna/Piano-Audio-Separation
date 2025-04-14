@@ -1,0 +1,655 @@
+archivo,linea,contenido
+metadata.yaml,29,inst_class: Piano
+metadata.yaml,32,midi_program_name: Bright Acoustic Piano
+metadata_1.yaml,65,inst_class: Piano
+metadata_10.yaml,29,inst_class: Piano
+metadata_10.yaml,32,midi_program_name: Bright Acoustic Piano
+metadata_100.yaml,29,inst_class: Piano
+metadata_100.yaml,32,midi_program_name: Acoustic Grand Piano
+metadata_100.yaml,34,plugin_name: ragtime_piano.nkm
+metadata_100.yaml,55,inst_class: Piano
+metadata_100.yaml,58,midi_program_name: Electric Piano 2
+metadata_101.yaml,29,inst_class: Piano
+metadata_101.yaml,32,midi_program_name: Bright Acoustic Piano
+metadata_102.yaml,56,inst_class: Piano
+metadata_102.yaml,59,midi_program_name: Electric Piano 2
+metadata_103.yaml,29,inst_class: Piano
+metadata_103.yaml,32,midi_program_name: Electric Piano 1
+metadata_103.yaml,83,inst_class: Piano
+metadata_103.yaml,86,midi_program_name: Electric Piano 2
+metadata_104.yaml,38,inst_class: Piano
+metadata_104.yaml,41,midi_program_name: Bright Acoustic Piano
+metadata_105.yaml,73,inst_class: Piano
+metadata_105.yaml,76,midi_program_name: Electric Piano 1
+metadata_105.yaml,99,inst_class: Piano
+metadata_105.yaml,102,midi_program_name: Acoustic Grand Piano
+metadata_105.yaml,104,plugin_name: ragtime_piano.nkm
+metadata_106.yaml,20,inst_class: Piano
+metadata_106.yaml,23,midi_program_name: Electric Piano 1
+metadata_106.yaml,47,inst_class: Piano
+metadata_106.yaml,50,midi_program_name: Acoustic Grand Piano
+metadata_106.yaml,52,plugin_name: grand_piano.nkm
+metadata_107.yaml,11,inst_class: Piano
+metadata_107.yaml,14,midi_program_name: Electric Piano 2
+metadata_107.yaml,20,inst_class: Piano
+metadata_107.yaml,23,midi_program_name: Electric Piano 2
+metadata_108.yaml,56,inst_class: Piano
+metadata_108.yaml,59,midi_program_name: Electric Piano 2
+metadata_109.yaml,64,inst_class: Piano
+metadata_109.yaml,67,midi_program_name: Electric Piano 1
+metadata_11.yaml,38,inst_class: Piano
+metadata_11.yaml,41,midi_program_name: Honky-tonk Piano
+metadata_11.yaml,47,inst_class: Piano
+metadata_11.yaml,50,midi_program_name: Electric Piano 1
+metadata_110.yaml,29,inst_class: Piano
+metadata_110.yaml,32,midi_program_name: Electric Piano 1
+metadata_111.yaml,38,inst_class: Piano
+metadata_111.yaml,41,midi_program_name: Bright Acoustic Piano
+metadata_112.yaml,11,inst_class: Piano
+metadata_112.yaml,14,midi_program_name: Bright Acoustic Piano
+metadata_113.yaml,81,inst_class: Piano
+metadata_113.yaml,84,midi_program_name: Bright Acoustic Piano
+metadata_114.yaml,20,inst_class: Piano
+metadata_114.yaml,23,midi_program_name: Electric Piano 2
+metadata_115.yaml,11,inst_class: Piano
+metadata_115.yaml,14,midi_program_name: Bright Acoustic Piano
+metadata_116.yaml,19,inst_class: Piano
+metadata_116.yaml,22,midi_program_name: Bright Acoustic Piano
+metadata_116.yaml,37,inst_class: Piano
+metadata_116.yaml,40,midi_program_name: Bright Acoustic Piano
+metadata_116.yaml,106,inst_class: Piano
+metadata_116.yaml,109,midi_program_name: Acoustic Grand Piano
+metadata_117.yaml,11,inst_class: Piano
+metadata_117.yaml,14,midi_program_name: Electric Piano 1
+metadata_118.yaml,11,inst_class: Piano
+metadata_118.yaml,14,midi_program_name: Bright Acoustic Piano
+metadata_118.yaml,16,plugin_name: grand_piano.nkm
+metadata_118.yaml,65,inst_class: Piano
+metadata_118.yaml,68,midi_program_name: Honky-tonk Piano
+metadata_118.yaml,74,inst_class: Piano
+metadata_118.yaml,77,midi_program_name: Honky-tonk Piano
+metadata_119.yaml,29,inst_class: Piano
+metadata_119.yaml,32,midi_program_name: Electric Piano 2
+metadata_119.yaml,100,inst_class: Piano
+metadata_119.yaml,103,midi_program_name: Electric Grand Piano
+metadata_12.yaml,37,inst_class: Piano
+metadata_12.yaml,40,midi_program_name: Electric Piano 1
+metadata_120.yaml,65,inst_class: Piano
+metadata_120.yaml,68,midi_program_name: Electric Piano 2
+metadata_121.yaml,20,inst_class: Piano
+metadata_121.yaml,23,midi_program_name: Electric Piano 1
+metadata_122.yaml,37,inst_class: Piano
+metadata_123.yaml,20,inst_class: Piano
+metadata_123.yaml,23,midi_program_name: Bright Acoustic Piano
+metadata_123.yaml,65,inst_class: Piano
+metadata_123.yaml,68,midi_program_name: Acoustic Grand Piano
+metadata_124.yaml,72,inst_class: Piano
+metadata_124.yaml,75,midi_program_name: Bright Acoustic Piano
+metadata_124.yaml,77,plugin_name: grand_piano.nkm
+metadata_125.yaml,38,inst_class: Piano
+metadata_125.yaml,41,midi_program_name: Electric Piano 1
+metadata_126.yaml,83,inst_class: Piano
+metadata_126.yaml,86,midi_program_name: Electric Piano 2
+metadata_127.yaml,38,inst_class: Piano
+metadata_127.yaml,41,midi_program_name: Bright Acoustic Piano
+metadata_128.yaml,38,inst_class: Piano
+metadata_128.yaml,47,inst_class: Piano
+metadata_128.yaml,50,midi_program_name: Bright Acoustic Piano
+metadata_128.yaml,52,plugin_name: upright_piano.nkm
+metadata_128.yaml,110,inst_class: Piano
+metadata_128.yaml,113,midi_program_name: Acoustic Grand Piano
+metadata_128.yaml,115,plugin_name: grand_piano.nkm
+metadata_129.yaml,29,inst_class: Piano
+metadata_129.yaml,32,midi_program_name: Bright Acoustic Piano
+metadata_129.yaml,34,plugin_name: grand_piano.nkm
+metadata_129.yaml,38,inst_class: Piano
+metadata_129.yaml,41,midi_program_name: Bright Acoustic Piano
+metadata_129.yaml,43,plugin_name: grand_piano.nkm
+metadata_13.yaml,56,inst_class: Piano
+metadata_13.yaml,59,midi_program_name: Electric Piano 2
+metadata_13.yaml,101,inst_class: Piano
+metadata_13.yaml,104,midi_program_name: Honky-tonk Piano
+metadata_13.yaml,110,inst_class: Piano
+metadata_13.yaml,112,midi_program_name: Acoustic Grand Piano
+metadata_130.yaml,20,inst_class: Piano
+metadata_130.yaml,23,midi_program_name: Bright Acoustic Piano
+metadata_130.yaml,25,plugin_name: grand_piano.nkm
+metadata_131.yaml,11,inst_class: Piano
+metadata_131.yaml,14,midi_program_name: Electric Piano 2
+metadata_131.yaml,128,inst_class: Piano
+metadata_132.yaml,20,inst_class: Piano
+metadata_132.yaml,23,midi_program_name: Bright Acoustic Piano
+metadata_132.yaml,92,inst_class: Piano
+metadata_132.yaml,95,midi_program_name: Electric Piano 1
+metadata_133.yaml,65,inst_class: Piano
+metadata_133.yaml,68,midi_program_name: Bright Acoustic Piano
+metadata_134.yaml,11,inst_class: Piano
+metadata_134.yaml,14,midi_program_name: Acoustic Grand Piano
+metadata_134.yaml,29,inst_class: Piano
+metadata_135.yaml,29,inst_class: Piano
+metadata_135.yaml,32,midi_program_name: Bright Acoustic Piano
+metadata_135.yaml,91,inst_class: Piano
+metadata_135.yaml,94,midi_program_name: Acoustic Grand Piano
+metadata_136.yaml,47,inst_class: Piano
+metadata_136.yaml,50,midi_program_name: Honky-tonk Piano
+metadata_137.yaml,20,inst_class: Piano
+metadata_137.yaml,23,midi_program_name: Electric Piano 2
+metadata_137.yaml,29,inst_class: Piano
+metadata_137.yaml,32,midi_program_name: Acoustic Grand Piano
+metadata_138.yaml,47,inst_class: Piano
+metadata_138.yaml,50,midi_program_name: Electric Piano 2
+metadata_139.yaml,82,inst_class: Piano
+metadata_139.yaml,85,midi_program_name: Electric Piano 2
+metadata_14.yaml,11,inst_class: Piano
+metadata_14.yaml,14,midi_program_name: Bright Acoustic Piano
+metadata_14.yaml,65,inst_class: Piano
+metadata_14.yaml,67,midi_program_name: Acoustic Grand Piano
+metadata_14.yaml,69,plugin_name: grand_piano.nkm
+metadata_140.yaml,20,inst_class: Piano
+metadata_140.yaml,23,midi_program_name: Bright Acoustic Piano
+metadata_140.yaml,25,plugin_name: upright_piano.nkm
+metadata_141.yaml,29,inst_class: Piano
+metadata_141.yaml,32,midi_program_name: Electric Piano 2
+metadata_142.yaml,11,inst_class: Piano
+metadata_142.yaml,14,midi_program_name: Bright Acoustic Piano
+metadata_142.yaml,65,inst_class: Piano
+metadata_142.yaml,68,midi_program_name: Electric Piano 2
+metadata_143.yaml,38,inst_class: Piano
+metadata_143.yaml,41,midi_program_name: Electric Piano 2
+metadata_144.yaml,20,inst_class: Piano
+metadata_144.yaml,23,midi_program_name: Electric Piano 1
+metadata_144.yaml,29,inst_class: Piano
+metadata_144.yaml,32,midi_program_name: Electric Piano 1
+metadata_145.yaml,29,inst_class: Piano
+metadata_145.yaml,32,midi_program_name: Electric Piano 2
+metadata_146.yaml,46,inst_class: Piano
+metadata_146.yaml,49,midi_program_name: Bright Acoustic Piano
+metadata_147.yaml,65,inst_class: Piano
+metadata_147.yaml,68,midi_program_name: Electric Piano 2
+metadata_148.yaml,29,inst_class: Piano
+metadata_148.yaml,32,midi_program_name: Honky-tonk Piano
+metadata_148.yaml,56,inst_class: Piano
+metadata_148.yaml,59,midi_program_name: Acoustic Grand Piano
+metadata_149.yaml,56,inst_class: Piano
+metadata_149.yaml,101,inst_class: Piano
+metadata_149.yaml,104,midi_program_name: Acoustic Grand Piano
+metadata_149.yaml,110,inst_class: Piano
+metadata_149.yaml,113,midi_program_name: Electric Piano 1
+metadata_15.yaml,11,inst_class: Piano
+metadata_15.yaml,14,midi_program_name: Electric Piano 2
+metadata_15.yaml,101,inst_class: Piano
+metadata_15.yaml,104,midi_program_name: Acoustic Grand Piano
+metadata_15.yaml,106,plugin_name: upright_piano.nkm
+metadata_150.yaml,38,inst_class: Piano
+metadata_150.yaml,41,midi_program_name: Acoustic Grand Piano
+metadata_150.yaml,43,plugin_name: grand_piano.nkm
+metadata_150.yaml,74,inst_class: Piano
+metadata_151.yaml,47,inst_class: Piano
+metadata_151.yaml,50,midi_program_name: Honky-tonk Piano
+metadata_151.yaml,65,inst_class: Piano
+metadata_151.yaml,68,midi_program_name: Acoustic Grand Piano
+metadata_152.yaml,64,inst_class: Piano
+metadata_152.yaml,67,midi_program_name: Bright Acoustic Piano
+metadata_152.yaml,69,plugin_name: ragtime_piano.nkm
+metadata_153.yaml,29,inst_class: Piano
+metadata_153.yaml,32,midi_program_name: Electric Piano 1
+metadata_154.yaml,20,inst_class: Piano
+metadata_154.yaml,23,midi_program_name: Bright Acoustic Piano
+metadata_154.yaml,82,inst_class: Piano
+metadata_154.yaml,85,midi_program_name: Acoustic Grand Piano
+metadata_155.yaml,20,inst_class: Piano
+metadata_155.yaml,23,midi_program_name: Electric Grand Piano
+metadata_156.yaml,20,inst_class: Piano
+metadata_156.yaml,23,midi_program_name: Bright Acoustic Piano
+metadata_157.yaml,29,inst_class: Piano
+metadata_157.yaml,32,midi_program_name: Electric Piano 2
+metadata_158.yaml,11,inst_class: Piano
+metadata_158.yaml,56,inst_class: Piano
+metadata_159.yaml,38,inst_class: Piano
+metadata_159.yaml,41,midi_program_name: Bright Acoustic Piano
+metadata_159.yaml,43,plugin_name: upright_piano.nkm
+metadata_16.yaml,82,inst_class: Piano
+metadata_16.yaml,85,midi_program_name: Honky-tonk Piano
+metadata_16.yaml,87,plugin_name: upright_piano.nkm
+metadata_160.yaml,20,inst_class: Piano
+metadata_160.yaml,23,midi_program_name: Electric Piano 2
+metadata_161.yaml,92,inst_class: Piano
+metadata_161.yaml,95,midi_program_name: Electric Piano 1
+metadata_161.yaml,145,inst_class: Piano
+metadata_162.yaml,29,inst_class: Piano
+metadata_162.yaml,32,midi_program_name: Electric Grand Piano
+metadata_163.yaml,38,inst_class: Piano
+metadata_163.yaml,41,midi_program_name: Electric Piano 1
+metadata_163.yaml,100,inst_class: Piano
+metadata_163.yaml,103,midi_program_name: Acoustic Grand Piano
+metadata_164.yaml,29,inst_class: Piano
+metadata_164.yaml,32,midi_program_name: Electric Piano 1
+metadata_164.yaml,47,inst_class: Piano
+metadata_164.yaml,50,midi_program_name: Acoustic Grand Piano
+metadata_164.yaml,52,plugin_name: upright_piano.nkm
+metadata_165.yaml,127,inst_class: Piano
+metadata_165.yaml,130,midi_program_name: Acoustic Grand Piano
+metadata_165.yaml,163,inst_class: Piano
+metadata_165.yaml,166,midi_program_name: Electric Piano 2
+metadata_166.yaml,20,inst_class: Piano
+metadata_166.yaml,23,midi_program_name: Electric Grand Piano
+metadata_167.yaml,110,inst_class: Piano
+metadata_167.yaml,113,midi_program_name: Electric Piano 1
+metadata_167.yaml,128,inst_class: Piano
+metadata_167.yaml,131,midi_program_name: Electric Piano 1
+metadata_168.yaml,29,inst_class: Piano
+metadata_168.yaml,32,midi_program_name: Electric Piano 1
+metadata_168.yaml,74,inst_class: Piano
+metadata_168.yaml,77,midi_program_name: Acoustic Grand Piano
+metadata_168.yaml,79,plugin_name: ragtime_piano.nkm
+metadata_169.yaml,20,inst_class: Piano
+metadata_169.yaml,23,midi_program_name: Electric Piano 2
+metadata_17.yaml,74,inst_class: Piano
+metadata_17.yaml,77,midi_program_name: Bright Acoustic Piano
+metadata_17.yaml,79,plugin_name: upright_piano.nkm
+metadata_17.yaml,83,inst_class: Piano
+metadata_17.yaml,86,midi_program_name: Acoustic Grand Piano
+metadata_17.yaml,92,inst_class: Piano
+metadata_17.yaml,95,midi_program_name: Acoustic Grand Piano
+metadata_170.yaml,29,inst_class: Piano
+metadata_170.yaml,32,midi_program_name: Honky-tonk Piano
+metadata_171.yaml,47,inst_class: Piano
+metadata_171.yaml,50,midi_program_name: Electric Piano 1
+metadata_172.yaml,20,inst_class: Piano
+metadata_172.yaml,23,midi_program_name: Bright Acoustic Piano
+metadata_172.yaml,25,plugin_name: upright_piano.nkm
+metadata_172.yaml,56,inst_class: Piano
+metadata_172.yaml,59,midi_program_name: Electric Piano 1
+metadata_172.yaml,137,inst_class: Piano
+metadata_172.yaml,140,midi_program_name: Acoustic Grand Piano
+metadata_173.yaml,29,inst_class: Piano
+metadata_173.yaml,109,inst_class: Piano
+metadata_173.yaml,112,midi_program_name: Electric Grand Piano
+metadata_174.yaml,38,inst_class: Piano
+metadata_174.yaml,41,midi_program_name: Electric Piano 2
+metadata_174.yaml,91,inst_class: Piano
+metadata_174.yaml,94,midi_program_name: Bright Acoustic Piano
+metadata_175.yaml,20,inst_class: Piano
+metadata_175.yaml,23,midi_program_name: Electric Piano 1
+metadata_176.yaml,20,inst_class: Piano
+metadata_176.yaml,23,midi_program_name: Electric Piano 2
+metadata_177.yaml,47,inst_class: Piano
+metadata_177.yaml,50,midi_program_name: Acoustic Grand Piano
+metadata_177.yaml,127,inst_class: Piano
+metadata_177.yaml,130,midi_program_name: Bright Acoustic Piano
+metadata_177.yaml,132,plugin_name: upright_piano.nkm
+metadata_178.yaml,11,inst_class: Piano
+metadata_178.yaml,14,midi_program_name: Bright Acoustic Piano
+metadata_179.yaml,11,inst_class: Piano
+metadata_179.yaml,14,midi_program_name: Electric Piano 1
+metadata_179.yaml,47,inst_class: Piano
+metadata_179.yaml,50,midi_program_name: Acoustic Grand Piano
+metadata_18.yaml,20,inst_class: Piano
+metadata_18.yaml,23,midi_program_name: Electric Piano 1
+metadata_18.yaml,118,inst_class: Piano
+metadata_18.yaml,121,midi_program_name: Acoustic Grand Piano
+metadata_18.yaml,123,plugin_name: upright_piano.nkm
+metadata_180.yaml,29,inst_class: Piano
+metadata_180.yaml,32,midi_program_name: Electric Piano 1
+metadata_180.yaml,38,inst_class: Piano
+metadata_180.yaml,41,midi_program_name: Acoustic Grand Piano
+metadata_181.yaml,65,inst_class: Piano
+metadata_181.yaml,68,midi_program_name: Electric Piano 2
+metadata_182.yaml,38,inst_class: Piano
+metadata_182.yaml,41,midi_program_name: Electric Piano 2
+metadata_182.yaml,92,inst_class: Piano
+metadata_183.yaml,20,inst_class: Piano
+metadata_183.yaml,23,midi_program_name: Acoustic Grand Piano
+metadata_183.yaml,38,inst_class: Piano
+metadata_183.yaml,41,midi_program_name: Electric Piano 2
+metadata_183.yaml,83,inst_class: Piano
+metadata_183.yaml,86,midi_program_name: Bright Acoustic Piano
+metadata_184.yaml,20,inst_class: Piano
+metadata_184.yaml,23,midi_program_name: Bright Acoustic Piano
+metadata_184.yaml,25,plugin_name: upright_piano.nkm
+metadata_184.yaml,74,inst_class: Piano
+metadata_184.yaml,76,midi_program_name: Acoustic Grand Piano
+metadata_185.yaml,20,inst_class: Piano
+metadata_185.yaml,23,midi_program_name: Bright Acoustic Piano
+metadata_185.yaml,83,inst_class: Piano
+metadata_185.yaml,86,midi_program_name: Acoustic Grand Piano
+metadata_186.yaml,56,inst_class: Piano
+metadata_186.yaml,59,midi_program_name: Electric Grand Piano
+metadata_187.yaml,101,inst_class: Piano
+metadata_187.yaml,104,midi_program_name: Bright Acoustic Piano
+metadata_187.yaml,106,plugin_name: upright_piano.nkm
+metadata_188.yaml,11,inst_class: Piano
+metadata_188.yaml,14,midi_program_name: Electric Piano 2
+metadata_189.yaml,38,inst_class: Piano
+metadata_189.yaml,41,midi_program_name: Electric Piano 2
+metadata_19.yaml,38,inst_class: Piano
+metadata_19.yaml,41,midi_program_name: Acoustic Grand Piano
+metadata_19.yaml,43,plugin_name: grand_piano.nkm
+metadata_19.yaml,65,inst_class: Piano
+metadata_19.yaml,68,midi_program_name: Electric Piano 1
+metadata_190.yaml,20,inst_class: Piano
+metadata_190.yaml,25,plugin_name: upright_piano.nkm
+metadata_190.yaml,73,inst_class: Piano
+metadata_191.yaml,38,inst_class: Piano
+metadata_191.yaml,41,midi_program_name: Electric Grand Piano
+metadata_192.yaml,11,inst_class: Piano
+metadata_193.yaml,38,inst_class: Piano
+metadata_193.yaml,41,midi_program_name: Electric Piano 2
+metadata_194.yaml,56,inst_class: Piano
+metadata_194.yaml,59,midi_program_name: Acoustic Grand Piano
+metadata_194.yaml,110,inst_class: Piano
+metadata_194.yaml,113,midi_program_name: Honky-tonk Piano
+metadata_194.yaml,115,plugin_name: grand_piano.nkm
+metadata_195.yaml,20,inst_class: Piano
+metadata_195.yaml,23,midi_program_name: Bright Acoustic Piano
+metadata_195.yaml,25,plugin_name: upright_piano.nkm
+metadata_195.yaml,83,inst_class: Piano
+metadata_195.yaml,86,midi_program_name: Electric Piano 1
+metadata_196.yaml,20,inst_class: Piano
+metadata_196.yaml,23,midi_program_name: Bright Acoustic Piano
+metadata_197.yaml,38,inst_class: Piano
+metadata_197.yaml,118,inst_class: Piano
+metadata_197.yaml,121,midi_program_name: Electric Piano 1
+metadata_198.yaml,46,inst_class: Piano
+metadata_198.yaml,49,midi_program_name: Electric Piano 1
+metadata_198.yaml,64,inst_class: Piano
+metadata_198.yaml,67,midi_program_name: Electric Piano 1
+metadata_198.yaml,90,inst_class: Piano
+metadata_198.yaml,93,midi_program_name: Electric Piano 2
+metadata_199.yaml,20,inst_class: Piano
+metadata_199.yaml,23,midi_program_name: Acoustic Grand Piano
+metadata_199.yaml,38,inst_class: Piano
+metadata_199.yaml,41,midi_program_name: Electric Piano 2
+metadata_2.yaml,11,inst_class: Piano
+metadata_2.yaml,14,midi_program_name: Bright Acoustic Piano
+metadata_20.yaml,28,inst_class: Piano
+metadata_20.yaml,31,midi_program_name: Honky-tonk Piano
+metadata_20.yaml,37,inst_class: Piano
+metadata_20.yaml,40,midi_program_name: Electric Grand Piano
+metadata_200.yaml,74,inst_class: Piano
+metadata_200.yaml,77,midi_program_name: Electric Piano 2
+metadata_21.yaml,107,inst_class: Piano
+metadata_21.yaml,110,midi_program_name: Bright Acoustic Piano
+metadata_21.yaml,116,inst_class: Piano
+metadata_21.yaml,119,midi_program_name: Bright Acoustic Piano
+metadata_21.yaml,161,inst_class: Piano
+metadata_21.yaml,164,midi_program_name: Bright Acoustic Piano
+metadata_22.yaml,11,inst_class: Piano
+metadata_22.yaml,14,midi_program_name: Bright Acoustic Piano
+metadata_23.yaml,47,inst_class: Piano
+metadata_23.yaml,50,midi_program_name: Electric Grand Piano
+metadata_24.yaml,11,inst_class: Piano
+metadata_24.yaml,14,midi_program_name: Bright Acoustic Piano
+metadata_24.yaml,47,inst_class: Piano
+metadata_24.yaml,50,midi_program_name: Acoustic Grand Piano
+metadata_25.yaml,46,inst_class: Piano
+metadata_25.yaml,49,midi_program_name: Bright Acoustic Piano
+metadata_26.yaml,81,inst_class: Piano
+metadata_26.yaml,84,midi_program_name: Electric Piano 1
+metadata_26.yaml,99,inst_class: Piano
+metadata_26.yaml,102,midi_program_name: Bright Acoustic Piano
+metadata_27.yaml,11,inst_class: Piano
+metadata_27.yaml,14,midi_program_name: Bright Acoustic Piano
+metadata_27.yaml,20,inst_class: Piano
+metadata_27.yaml,23,midi_program_name: Electric Grand Piano
+metadata_27.yaml,119,inst_class: Piano
+metadata_27.yaml,122,midi_program_name: Electric Piano 2
+metadata_28.yaml,19,inst_class: Piano
+metadata_28.yaml,22,midi_program_name: Bright Acoustic Piano
+metadata_28.yaml,24,plugin_name: grand_piano.nkm
+metadata_28.yaml,28,inst_class: Piano
+metadata_28.yaml,31,midi_program_name: Electric Grand Piano
+metadata_29.yaml,29,inst_class: Piano
+metadata_29.yaml,32,midi_program_name: Electric Piano 2
+metadata_29.yaml,38,inst_class: Piano
+metadata_29.yaml,41,midi_program_name: Electric Piano 2
+metadata_3.yaml,65,inst_class: Piano
+metadata_3.yaml,74,inst_class: Piano
+metadata_3.yaml,77,midi_program_name: Acoustic Grand Piano
+metadata_30.yaml,38,inst_class: Piano
+metadata_30.yaml,41,midi_program_name: Electric Piano 2
+metadata_30.yaml,83,inst_class: Piano
+metadata_30.yaml,86,midi_program_name: Bright Acoustic Piano
+metadata_31.yaml,47,inst_class: Piano
+metadata_32.yaml,29,inst_class: Piano
+metadata_32.yaml,32,midi_program_name: Acoustic Grand Piano
+metadata_32.yaml,74,inst_class: Piano
+metadata_32.yaml,77,midi_program_name: Electric Piano 2
+metadata_33.yaml,20,inst_class: Piano
+metadata_33.yaml,23,midi_program_name: Electric Grand Piano
+metadata_33.yaml,29,inst_class: Piano
+metadata_33.yaml,32,midi_program_name: Electric Grand Piano
+metadata_34.yaml,11,inst_class: Piano
+metadata_34.yaml,14,midi_program_name: Bright Acoustic Piano
+metadata_35.yaml,29,inst_class: Piano
+metadata_35.yaml,32,midi_program_name: Electric Piano 1
+metadata_35.yaml,47,inst_class: Piano
+metadata_35.yaml,50,midi_program_name: Acoustic Grand Piano
+metadata_36.yaml,38,inst_class: Piano
+metadata_36.yaml,41,midi_program_name: Electric Piano 2
+metadata_37.yaml,47,inst_class: Piano
+metadata_37.yaml,50,midi_program_name: Acoustic Grand Piano
+metadata_37.yaml,110,inst_class: Piano
+metadata_37.yaml,113,midi_program_name: Electric Piano 1
+metadata_38.yaml,20,inst_class: Piano
+metadata_38.yaml,23,midi_program_name: Acoustic Grand Piano
+metadata_38.yaml,25,plugin_name: upright_piano.nkm
+metadata_38.yaml,47,inst_class: Piano
+metadata_38.yaml,50,midi_program_name: Bright Acoustic Piano
+metadata_39.yaml,72,inst_class: Piano
+metadata_39.yaml,75,midi_program_name: Electric Piano 1
+metadata_4.yaml,29,inst_class: Piano
+metadata_4.yaml,32,midi_program_name: Acoustic Grand Piano
+metadata_4.yaml,65,inst_class: Piano
+metadata_4.yaml,68,midi_program_name: Electric Piano 2
+metadata_40.yaml,20,inst_class: Piano
+metadata_40.yaml,23,midi_program_name: Electric Piano 1
+metadata_41.yaml,11,inst_class: Piano
+metadata_41.yaml,14,midi_program_name: Bright Acoustic Piano
+metadata_42.yaml,20,inst_class: Piano
+metadata_42.yaml,23,midi_program_name: Electric Piano 2
+metadata_43.yaml,91,inst_class: Piano
+metadata_43.yaml,109,inst_class: Piano
+metadata_43.yaml,112,midi_program_name: Electric Piano 2
+metadata_43.yaml,127,inst_class: Piano
+metadata_43.yaml,130,midi_program_name: Electric Piano 1
+metadata_44.yaml,29,inst_class: Piano
+metadata_44.yaml,32,midi_program_name: Acoustic Grand Piano
+metadata_44.yaml,34,plugin_name: ragtime_piano.nkm
+metadata_44.yaml,47,inst_class: Piano
+metadata_44.yaml,50,midi_program_name: Bright Acoustic Piano
+metadata_44.yaml,56,inst_class: Piano
+metadata_44.yaml,59,midi_program_name: Electric Piano 2
+metadata_45.yaml,29,inst_class: Piano
+metadata_45.yaml,32,midi_program_name: Acoustic Grand Piano
+metadata_45.yaml,47,inst_class: Piano
+metadata_45.yaml,50,midi_program_name: Honky-tonk Piano
+metadata_46.yaml,47,inst_class: Piano
+metadata_46.yaml,50,midi_program_name: Electric Piano 2
+metadata_47.yaml,82,inst_class: Piano
+metadata_47.yaml,85,midi_program_name: Bright Acoustic Piano
+metadata_48.yaml,20,inst_class: Piano
+metadata_48.yaml,23,midi_program_name: Electric Grand Piano
+metadata_49.yaml,29,inst_class: Piano
+metadata_49.yaml,32,midi_program_name: Electric Piano 1
+metadata_5.yaml,20,inst_class: Piano
+metadata_5.yaml,23,midi_program_name: Electric Piano 1
+metadata_50.yaml,55,inst_class: Piano
+metadata_50.yaml,58,midi_program_name: Electric Piano 2
+metadata_50.yaml,82,inst_class: Piano
+metadata_50.yaml,85,midi_program_name: Electric Piano 1
+metadata_51.yaml,20,inst_class: Piano
+metadata_51.yaml,23,midi_program_name: Bright Acoustic Piano
+metadata_52.yaml,29,inst_class: Piano
+metadata_52.yaml,32,midi_program_name: Electric Piano 1
+metadata_52.yaml,38,inst_class: Piano
+metadata_52.yaml,41,midi_program_name: Acoustic Grand Piano
+metadata_53.yaml,20,inst_class: Piano
+metadata_54.yaml,38,inst_class: Piano
+metadata_54.yaml,41,midi_program_name: Electric Piano 1
+metadata_54.yaml,100,inst_class: Piano
+metadata_54.yaml,103,midi_program_name: Acoustic Grand Piano
+metadata_55.yaml,55,inst_class: Piano
+metadata_55.yaml,58,midi_program_name: Electric Piano 1
+metadata_56.yaml,20,inst_class: Piano
+metadata_56.yaml,23,midi_program_name: Electric Piano 2
+metadata_56.yaml,91,inst_class: Piano
+metadata_56.yaml,94,midi_program_name: Acoustic Grand Piano
+metadata_56.yaml,96,plugin_name: ragtime_piano.nkm
+metadata_57.yaml,55,inst_class: Piano
+metadata_57.yaml,58,midi_program_name: Acoustic Grand Piano
+metadata_57.yaml,82,inst_class: Piano
+metadata_57.yaml,85,midi_program_name: Electric Piano 1
+metadata_57.yaml,118,inst_class: Piano
+metadata_57.yaml,121,midi_program_name: Acoustic Grand Piano
+metadata_58.yaml,11,inst_class: Piano
+metadata_58.yaml,14,midi_program_name: Bright Acoustic Piano
+metadata_59.yaml,29,inst_class: Piano
+metadata_59.yaml,32,midi_program_name: Electric Piano 2
+metadata_6.yaml,20,inst_class: Piano
+metadata_6.yaml,23,midi_program_name: Bright Acoustic Piano
+metadata_6.yaml,25,plugin_name: grand_piano.nkm
+metadata_6.yaml,38,inst_class: Piano
+metadata_6.yaml,41,midi_program_name: Electric Piano 1
+metadata_6.yaml,83,inst_class: Piano
+metadata_6.yaml,86,midi_program_name: Bright Acoustic Piano
+metadata_6.yaml,88,plugin_name: grand_piano.nkm
+metadata_60.yaml,28,inst_class: Piano
+metadata_60.yaml,31,midi_program_name: Bright Acoustic Piano
+metadata_61.yaml,29,inst_class: Piano
+metadata_61.yaml,32,midi_program_name: Bright Acoustic Piano
+metadata_61.yaml,74,inst_class: Piano
+metadata_61.yaml,77,midi_program_name: Bright Acoustic Piano
+metadata_62.yaml,29,inst_class: Piano
+metadata_62.yaml,32,midi_program_name: Electric Piano 2
+metadata_63.yaml,38,inst_class: Piano
+metadata_63.yaml,41,midi_program_name: Bright Acoustic Piano
+metadata_64.yaml,92,inst_class: Piano
+metadata_64.yaml,95,midi_program_name: Acoustic Grand Piano
+metadata_64.yaml,97,plugin_name: grand_piano.nkm
+metadata_64.yaml,101,inst_class: Piano
+metadata_64.yaml,104,midi_program_name: Bright Acoustic Piano
+metadata_65.yaml,65,inst_class: Piano
+metadata_65.yaml,68,midi_program_name: Electric Piano 2
+metadata_66.yaml,20,inst_class: Piano
+metadata_66.yaml,23,midi_program_name: Bright Acoustic Piano
+metadata_66.yaml,25,plugin_name: upright_piano.nkm
+metadata_67.yaml,11,inst_class: Piano
+metadata_67.yaml,14,midi_program_name: Electric Grand Piano
+metadata_67.yaml,20,inst_class: Piano
+metadata_67.yaml,23,midi_program_name: Electric Grand Piano
+metadata_68.yaml,98,inst_class: Piano
+metadata_68.yaml,101,midi_program_name: Bright Acoustic Piano
+metadata_68.yaml,103,plugin_name: ragtime_piano.nkm
+metadata_69.yaml,20,inst_class: Piano
+metadata_69.yaml,74,inst_class: Piano
+metadata_69.yaml,77,midi_program_name: Acoustic Grand Piano
+metadata_7.yaml,29,inst_class: Piano
+metadata_7.yaml,32,midi_program_name: Electric Piano 2
+metadata_7.yaml,56,inst_class: Piano
+metadata_7.yaml,59,midi_program_name: Acoustic Grand Piano
+metadata_7.yaml,61,plugin_name: ragtime_piano.nkm
+metadata_70.yaml,11,inst_class: Piano
+metadata_70.yaml,14,midi_program_name: Electric Piano 2
+metadata_71.yaml,65,inst_class: Piano
+metadata_71.yaml,68,midi_program_name: Electric Piano 2
+metadata_72.yaml,74,inst_class: Piano
+metadata_72.yaml,77,midi_program_name: Electric Piano 1
+metadata_72.yaml,83,inst_class: Piano
+metadata_72.yaml,86,midi_program_name: Acoustic Grand Piano
+metadata_72.yaml,88,plugin_name: ragtime_piano.nkm
+metadata_73.yaml,11,inst_class: Piano
+metadata_73.yaml,14,midi_program_name: Bright Acoustic Piano
+metadata_73.yaml,20,inst_class: Piano
+metadata_74.yaml,11,inst_class: Piano
+metadata_74.yaml,14,midi_program_name: Bright Acoustic Piano
+metadata_75.yaml,20,inst_class: Piano
+metadata_75.yaml,23,midi_program_name: Electric Piano 1
+metadata_76.yaml,20,inst_class: Piano
+metadata_76.yaml,23,midi_program_name: Electric Piano 2
+metadata_77.yaml,20,inst_class: Piano
+metadata_77.yaml,23,midi_program_name: Electric Piano 1
+metadata_78.yaml,11,inst_class: Piano
+metadata_78.yaml,14,midi_program_name: Acoustic Grand Piano
+metadata_78.yaml,47,inst_class: Piano
+metadata_79.yaml,20,inst_class: Piano
+metadata_79.yaml,23,midi_program_name: Electric Piano 1
+metadata_8.yaml,11,inst_class: Piano
+metadata_8.yaml,14,midi_program_name: Bright Acoustic Piano
+metadata_80.yaml,47,inst_class: Piano
+metadata_80.yaml,50,midi_program_name: Bright Acoustic Piano
+metadata_80.yaml,83,inst_class: Piano
+metadata_80.yaml,86,midi_program_name: Acoustic Grand Piano
+metadata_81.yaml,20,inst_class: Piano
+metadata_81.yaml,92,inst_class: Piano
+metadata_81.yaml,95,midi_program_name: Acoustic Grand Piano
+metadata_82.yaml,11,inst_class: Piano
+metadata_82.yaml,14,midi_program_name: Acoustic Grand Piano
+metadata_82.yaml,109,inst_class: Piano
+metadata_82.yaml,112,midi_program_name: Electric Piano 1
+metadata_83.yaml,20,inst_class: Piano
+metadata_83.yaml,23,midi_program_name: Bright Acoustic Piano
+metadata_83.yaml,56,inst_class: Piano
+metadata_83.yaml,59,midi_program_name: Electric Piano 1
+metadata_83.yaml,137,inst_class: Piano
+metadata_83.yaml,140,midi_program_name: Acoustic Grand Piano
+metadata_84.yaml,29,inst_class: Piano
+metadata_84.yaml,32,midi_program_name: Electric Piano 1
+metadata_84.yaml,55,inst_class: Piano
+metadata_84.yaml,58,midi_program_name: Electric Piano 1
+metadata_85.yaml,74,inst_class: Piano
+metadata_85.yaml,92,inst_class: Piano
+metadata_85.yaml,95,midi_program_name: Acoustic Grand Piano
+metadata_86.yaml,11,inst_class: Piano
+metadata_86.yaml,14,midi_program_name: Bright Acoustic Piano
+metadata_87.yaml,38,inst_class: Piano
+metadata_87.yaml,41,midi_program_name: Electric Piano 1
+metadata_87.yaml,47,inst_class: Piano
+metadata_87.yaml,50,midi_program_name: Electric Piano 2
+metadata_88.yaml,47,inst_class: Piano
+metadata_88.yaml,50,midi_program_name: Electric Piano 1
+metadata_89.yaml,73,inst_class: Piano
+metadata_89.yaml,76,midi_program_name: Electric Piano 1
+metadata_9.yaml,56,inst_class: Piano
+metadata_9.yaml,59,midi_program_name: Honky-tonk Piano
+metadata_90.yaml,11,inst_class: Piano
+metadata_90.yaml,14,midi_program_name: Acoustic Grand Piano
+metadata_90.yaml,29,inst_class: Piano
+metadata_90.yaml,32,midi_program_name: Electric Piano 2
+metadata_91.yaml,20,inst_class: Piano
+metadata_91.yaml,23,midi_program_name: Bright Acoustic Piano
+metadata_92.yaml,38,inst_class: Piano
+metadata_92.yaml,41,midi_program_name: Electric Grand Piano
+metadata_93.yaml,74,inst_class: Piano
+metadata_93.yaml,77,midi_program_name: Bright Acoustic Piano
+metadata_93.yaml,79,plugin_name: upright_piano.nkm
+metadata_93.yaml,127,inst_class: Piano
+metadata_93.yaml,130,midi_program_name: Bright Acoustic Piano
+metadata_93.yaml,132,plugin_name: upright_piano.nkm
+metadata_94.yaml,11,inst_class: Piano
+metadata_94.yaml,14,midi_program_name: Electric Piano 1
+metadata_95.yaml,11,inst_class: Piano
+metadata_95.yaml,14,midi_program_name: Acoustic Grand Piano
+metadata_95.yaml,16,plugin_name: grand_piano.nkm
+metadata_95.yaml,56,inst_class: Piano
+metadata_95.yaml,59,midi_program_name: Electric Piano 2
+metadata_96.yaml,29,inst_class: Piano
+metadata_96.yaml,32,midi_program_name: Electric Piano 2
+metadata_96.yaml,74,inst_class: Piano
+metadata_96.yaml,77,midi_program_name: Electric Piano 1
+metadata_97.yaml,19,inst_class: Piano
+metadata_97.yaml,22,midi_program_name: Bright Acoustic Piano
+metadata_97.yaml,28,inst_class: Piano
+metadata_97.yaml,31,midi_program_name: Electric Grand Piano
+metadata_98.yaml,38,inst_class: Piano
+metadata_98.yaml,41,midi_program_name: Bright Acoustic Piano
+metadata_98.yaml,47,inst_class: Piano
+metadata_98.yaml,50,midi_program_name: Bright Acoustic Piano
+metadata_98.yaml,74,inst_class: Piano
+metadata_98.yaml,77,midi_program_name: Honky-tonk Piano
+metadata_99.yaml,82,inst_class: Piano
+metadata_99.yaml,85,midi_program_name: Electric Grand Piano
+metadata_99.yaml,91,inst_class: Piano
+metadata_99.yaml,94,midi_program_name: Honky-tonk Piano
+metadata_99.yaml,100,inst_class: Piano
+metadata_99.yaml,103,midi_program_name: Acoustic Grand Piano

@@ -27,7 +27,7 @@ conda env list
 Instrucciones para instalar NUSSL
 
 1. desde el entorno audio_env moverse a la carpeta nussl
-   cd nussl-1.1.3
+   cd nussl
 
 2. ejectuar pip install
    pip install .
