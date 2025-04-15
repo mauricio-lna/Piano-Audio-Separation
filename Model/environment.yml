@@ -1,4 +1,4 @@
-name: audio_env
+name: audio_env_TEST
 channels:
   - defaults
   - conda-forge
@@ -14,5 +14,5 @@ dependencies:
       - stempeg
       - sox
       - numba==0.48
-      - librosa # Puedes instalarlo explícitamente con pip
+      - librosa==0.8.1 # Puedes instalarlo explícitamente con pip
       - nussl
