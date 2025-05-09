@@ -1,5 +1,0 @@
-scaper1.6.4
-pyloudnorm
-nussl
-se instalo pandas
-se instalo weel

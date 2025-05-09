@@ -1,0 +1,341 @@
+LOG DE RENOMBRAMIENTO - 2025-05-03 22:05:14.706620
+Ruta procesada: D:\src\Piano-Audio-Separation\Dataset\dataset-final
+
+Renombrado: 'AimeeNorwich_Child_STEM_07.wav' → 'AimeeNorwich_Child.wav'
+Renombrado: 'JoelHelander_ExcessiveResistancetoChange_STEM_09.wav' → 'JoelHelander_ExcessiveResistancetoChange.wav'
+Renombrado: 'KarimDouaidy_Hopscotch_STEM_02.wav' → 'KarimDouaidy_Hopscotch.wav'
+Ignorado: 'KarimDouaidy_Hopscotch_STEM_06.wav' → 'KarimDouaidy_Hopscotch.wav' (ya existe)
+Renombrado: 'KarimDouaidy_Yatora_STEM_02.wav' → 'KarimDouaidy_Yatora.wav'
+Renombrado: 'SweetLights_YouLetMeDown_STEM_01.wav' → 'SweetLights_YouLetMeDown.wav'
+Renombrado: 'Auctioneer_OurFutureFaces_STEM_09.wav' → 'Auctioneer_OurFutureFaces.wav'
+Renombrado: 'ClaraBerryAndWooldog_Stella_STEM_02.wav' → 'ClaraBerryAndWooldog_Stella.wav'
+Renombrado: 'EthanHein_GirlOnABridge_STEM_01.wav' → 'EthanHein_GirlOnABridge.wav'
+Renombrado: 'JoelHelander_ExcessiveResistancetoChange_STEM_07.wav' → 'JoelHelander_ExcessiveResistancetoChange.wav'
+Renombrado: 'KarimDouaidy_Hopscotch_STEM_08.wav' → 'KarimDouaidy_Hopscotch.wav'
+Renombrado: 'KarimDouaidy_Yatora_STEM_01.wav' → 'KarimDouaidy_Yatora.wav'
+Renombrado: 'StrandOfOaks_Spacestation_STEM_05.wav' → 'StrandOfOaks_Spacestation.wav'
+Renombrado: 'SweetLights_YouLetMeDown_STEM_13.wav' → 'SweetLights_YouLetMeDown.wav'
+Renombrado: 'MatthewEntwistle_TheArch_STEM_10.wav' → 'MatthewEntwistle_TheArch.wav'
+Renombrado: 'Auctioneer_OurFutureFaces_STEM_01.wav' → 'Auctioneer_OurFutureFaces.wav'
+Renombrado: 'MusicDelta_CoolJazz_STEM_04.wav' → 'MusicDelta_CoolJazz.wav'
+Renombrado: 'JoelHelander_Definition_STEM_12.wav' → 'JoelHelander_Definition.wav'
+Renombrado: 'JoelHelander_ExcessiveResistancetoChange_STEM_11.wav' → 'JoelHelander_ExcessiveResistancetoChange.wav'
+Renombrado: 'MatthewEntwistle_AnEveningWithOliver_STEM_04.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav'
+Renombrado: 'MatthewEntwistle_FairerHopes_STEM_01.wav' → 'MatthewEntwistle_FairerHopes.wav'
+Renombrado: 'MatthewEntwistle_AnEveningWithOliver_STEM_05.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav'
+Renombrado: 'ClaraBerryAndWooldog_Boys_STEM_03.wav' → 'ClaraBerryAndWooldog_Boys.wav'
+Renombrado: 'Lushlife_ToynbeeSuite_STEM_01.wav' → 'Lushlife_ToynbeeSuite.wav'
+Renombrado: 'MatthewEntwistle_DontYouEver_STEM_03.wav' → 'MatthewEntwistle_DontYouEver.wav'
+Renombrado: 'AimeeNorwich_Flying_STEM_10.wav' → 'AimeeNorwich_Flying.wav'
+Ignorado: 'AimeeNorwich_Flying_STEM_11.wav' → 'AimeeNorwich_Flying.wav' (ya existe)
+Renombrado: 'JoelHelander_Definition_STEM_05.wav' → 'JoelHelander_Definition.wav'
+Renombrado: 'MatthewEntwistle_AnEveningWithOliver_STEM_01.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav'
+Ignorado: 'MatthewEntwistle_AnEveningWithOliver_STEM_02.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav' (ya existe)
+Renombrado: 'MatthewEntwistle_ImpressionsOfSaturn_STEM_01.wav' → 'MatthewEntwistle_ImpressionsOfSaturn.wav'
+Renombrado: 'MatthewEntwistle_TheFlaxenField_STEM_01.wav' → 'MatthewEntwistle_TheFlaxenField.wav'
+Renombrado: 'MatthewEntwistle_FairerHopes_STEM_02.wav' → 'MatthewEntwistle_FairerHopes.wav'
+Ignorado: 'MatthewEntwistle_FairerHopes_STEM_03.wav' → 'MatthewEntwistle_FairerHopes.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_FairerHopes_STEM_04.wav' → 'MatthewEntwistle_FairerHopes.wav' (ya existe)
+Renombrado: 'MatthewEntwistle_TheArch_STEM_05.wav' → 'MatthewEntwistle_TheArch.wav'
+Ignorado: 'MatthewEntwistle_TheArch_STEM_06.wav' → 'MatthewEntwistle_TheArch.wav' (ya existe)
+Renombrado: 'JoelHelander_Definition_STEM_07.wav' → 'JoelHelander_Definition.wav'
+Renombrado: 'KarimDouaidy_Hopscotch_STEM_03.wav' → 'KarimDouaidy_Hopscotch.wav'
+Renombrado: 'Lushlife_ToynbeeSuite_STEM_03.wav' → 'Lushlife_ToynbeeSuite.wav'
+Renombrado: 'SweetLights_YouLetMeDown_STEM_05.wav' → 'SweetLights_YouLetMeDown.wav'
+Renombrado: 'AimeeNorwich_Flying_STEM_15.wav' → 'AimeeNorwich_Flying.wav'
+Renombrado: 'JoelHelander_ExcessiveResistancetoChange_STEM_08.wav' → 'JoelHelander_ExcessiveResistancetoChange.wav'
+Renombrado: 'Lushlife_ToynbeeSuite_STEM_04.wav' → 'Lushlife_ToynbeeSuite.wav'
+Renombrado: 'MatthewEntwistle_AnEveningWithOliver_STEM_03.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav'
+Renombrado: 'MatthewEntwistle_TheFlaxenField_STEM_02.wav' → 'MatthewEntwistle_TheFlaxenField.wav'
+Renombrado: 'MusicDelta_SwingJazz_STEM_04.wav' → 'MusicDelta_SwingJazz.wav'
+Renombrado: 'MatthewEntwistle_FairerHopes_STEM_05.wav' → 'MatthewEntwistle_FairerHopes.wav'
+Renombrado: 'AimeeNorwich_Child_STEM_03.wav' → 'AimeeNorwich_Child.wav'
+Renombrado: 'AimeeNorwich_Flying_STEM_04.wav' → 'AimeeNorwich_Flying.wav'
+Ignorado: 'AimeeNorwich_Flying_STEM_05.wav' → 'AimeeNorwich_Flying.wav' (ya existe)
+Renombrado: 'Auctioneer_OurFutureFaces_STEM_05.wav' → 'Auctioneer_OurFutureFaces.wav'
+Renombrado: 'ClaraBerryAndWooldog_AirTraffic_STEM_04.wav' → 'ClaraBerryAndWooldog_AirTraffic.wav'
+Renombrado: 'CroqueMadame_Oil_STEM_02.wav' → 'CroqueMadame_Oil.wav'
+Renombrado: 'CroqueMadame_Pilot_STEM_02.wav' → 'CroqueMadame_Pilot.wav'
+Renombrado: 'Lushlife_ToynbeeSuite_STEM_10.wav' → 'Lushlife_ToynbeeSuite.wav'
+Ignorado: 'Lushlife_ToynbeeSuite_STEM_11.wav' → 'Lushlife_ToynbeeSuite.wav' (ya existe)
+Ignorado: 'Lushlife_ToynbeeSuite_STEM_12.wav' → 'Lushlife_ToynbeeSuite.wav' (ya existe)
+Renombrado: 'PortStWillow_StayEven_STEM_05.wav' → 'PortStWillow_StayEven.wav'
+Ignorado: 'PortStWillow_StayEven_STEM_06.wav' → 'PortStWillow_StayEven.wav' (ya existe)
+Ignorado: 'PortStWillow_StayEven_STEM_07.wav' → 'PortStWillow_StayEven.wav' (ya existe)
+Renombrado: 'SecretMountains_HighHorse_STEM_05.wav' → 'SecretMountains_HighHorse.wav'
+Renombrado: 'StevenClark_Bounty_STEM_01.wav' → 'StevenClark_Bounty.wav'
+Renombrado: 'MatthewEntwistle_FairerHopes_STEM_06.wav' → 'MatthewEntwistle_FairerHopes.wav'
+Renombrado: 'MatthewEntwistle_TheArch_STEM_19.wav' → 'MatthewEntwistle_TheArch.wav'
+Renombrado: 'PortStWillow_StayEven_STEM_02.wav' → 'PortStWillow_StayEven.wav'
+Renombrado: 'SecretMountains_HighHorse_STEM_03.wav' → 'SecretMountains_HighHorse.wav'
+Renombrado: 'KarimDouaidy_Hopscotch_STEM_04.wav' → 'KarimDouaidy_Hopscotch.wav'
+Renombrado: 'EthanHein_GirlOnABridge_STEM_05.wav' → 'EthanHein_GirlOnABridge.wav'
+Renombrado: 'CroqueMadame_Oil_STEM_03.wav' → 'CroqueMadame_Oil.wav'
+Renombrado: 'CroqueMadame_Pilot_STEM_03.wav' → 'CroqueMadame_Pilot.wav'
+Renombrado: 'JoelHelander_ExcessiveResistancetoChange_STEM_05.wav' → 'JoelHelander_ExcessiveResistancetoChange.wav'
+Renombrado: 'MatthewEntwistle_AnEveningWithOliver_STEM_07.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav'
+Renombrado: 'MatthewEntwistle_DontYouEver_STEM_01.wav' → 'MatthewEntwistle_DontYouEver.wav'
+Renombrado: 'MatthewEntwistle_FairerHopes_STEM_07.wav' → 'MatthewEntwistle_FairerHopes.wav'
+Ignorado: 'MatthewEntwistle_FairerHopes_STEM_08.wav' → 'MatthewEntwistle_FairerHopes.wav' (ya existe)
+Renombrado: 'MusicDelta_BebopJazz_STEM_02.wav' → 'MusicDelta_BebopJazz.wav'
+Renombrado: 'MusicDelta_CoolJazz_STEM_01.wav' → 'MusicDelta_CoolJazz.wav'
+Renombrado: 'MusicDelta_ModalJazz_STEM_02.wav' → 'MusicDelta_ModalJazz.wav'
+Renombrado: 'MusicDelta_SwingJazz_STEM_01.wav' → 'MusicDelta_SwingJazz.wav'
+Renombrado: 'KarimDouaidy_Hopscotch_STEM_05.wav' → 'KarimDouaidy_Hopscotch.wav'
+Renombrado: 'Grants_PunchDrunk_STEM_05.wav' → 'Grants_PunchDrunk.wav'
+Renombrado: 'Lushlife_ToynbeeSuite_STEM_02.wav' → 'Lushlife_ToynbeeSuite.wav'
+Ignorado: 'Lushlife_ToynbeeSuite_STEM_06.wav' → 'Lushlife_ToynbeeSuite.wav' (ya existe)
+Ignorado: 'Lushlife_ToynbeeSuite_STEM_22.wav' → 'Lushlife_ToynbeeSuite.wav' (ya existe)
+Renombrado: 'AimeeNorwich_Child_STEM_01.wav' → 'AimeeNorwich_Child.wav'
+Renombrado: 'AimeeNorwich_Flying_STEM_01.wav' → 'AimeeNorwich_Flying.wav'
+Renombrado: 'Auctioneer_OurFutureFaces_STEM_04.wav' → 'Auctioneer_OurFutureFaces.wav'
+Renombrado: 'ClaraBerryAndWooldog_AirTraffic_STEM_01.wav' → 'ClaraBerryAndWooldog_AirTraffic.wav'
+Renombrado: 'ClaraBerryAndWooldog_Boys_STEM_01.wav' → 'ClaraBerryAndWooldog_Boys.wav'
+Renombrado: 'ClaraBerryAndWooldog_Stella_STEM_01.wav' → 'ClaraBerryAndWooldog_Stella.wav'
+Renombrado: 'ClaraBerryAndWooldog_WaltzForMyVictims_STEM_01.wav' → 'ClaraBerryAndWooldog_WaltzForMyVictims.wav'
+Renombrado: 'CroqueMadame_Oil_STEM_04.wav' → 'CroqueMadame_Oil.wav'
+Renombrado: 'CroqueMadame_Pilot_STEM_04.wav' → 'CroqueMadame_Pilot.wav'
+Renombrado: 'JoelHelander_ExcessiveResistancetoChange_STEM_06.wav' → 'JoelHelander_ExcessiveResistancetoChange.wav'
+Renombrado: 'Lushlife_ToynbeeSuite_STEM_07.wav' → 'Lushlife_ToynbeeSuite.wav'
+Renombrado: 'MatthewEntwistle_DontYouEver_STEM_04.wav' → 'MatthewEntwistle_DontYouEver.wav'
+Renombrado: 'MusicDelta_BebopJazz_STEM_01.wav' → 'MusicDelta_BebopJazz.wav'
+Renombrado: 'MusicDelta_CoolJazz_STEM_02.wav' → 'MusicDelta_CoolJazz.wav'
+Renombrado: 'MusicDelta_ModalJazz_STEM_01.wav' → 'MusicDelta_ModalJazz.wav'
+Renombrado: 'MusicDelta_SwingJazz_STEM_02.wav' → 'MusicDelta_SwingJazz.wav'
+Renombrado: 'PortStWillow_StayEven_STEM_03.wav' → 'PortStWillow_StayEven.wav'
+Ignorado: 'PortStWillow_StayEven_STEM_04.wav' → 'PortStWillow_StayEven.wav' (ya existe)
+Renombrado: 'SecretMountains_HighHorse_STEM_04.wav' → 'SecretMountains_HighHorse.wav'
+Renombrado: 'StevenClark_Bounty_STEM_05.wav' → 'StevenClark_Bounty.wav'
+Renombrado: 'StrandOfOaks_Spacestation_STEM_03.wav' → 'StrandOfOaks_Spacestation.wav'
+Renombrado: 'SweetLights_YouLetMeDown_STEM_06.wav' → 'SweetLights_YouLetMeDown.wav'
+Renombrado: 'AimeeNorwich_Child_STEM_02.wav' → 'AimeeNorwich_Child.wav'
+Renombrado: 'AimeeNorwich_Flying_STEM_03.wav' → 'AimeeNorwich_Flying.wav'
+Renombrado: 'Auctioneer_OurFutureFaces_STEM_02.wav' → 'Auctioneer_OurFutureFaces.wav'
+Renombrado: 'ClaraBerryAndWooldog_AirTraffic_STEM_03.wav' → 'ClaraBerryAndWooldog_AirTraffic.wav'
+Renombrado: 'ClaraBerryAndWooldog_Stella_STEM_04.wav' → 'ClaraBerryAndWooldog_Stella.wav'
+Renombrado: 'ClaraBerryAndWooldog_WaltzForMyVictims_STEM_02.wav' → 'ClaraBerryAndWooldog_WaltzForMyVictims.wav'
+Renombrado: 'Grants_PunchDrunk_STEM_02.wav' → 'Grants_PunchDrunk.wav'
+Renombrado: 'KarimDouaidy_Hopscotch_STEM_01.wav' → 'KarimDouaidy_Hopscotch.wav'
+Renombrado: 'KarimDouaidy_Yatora_STEM_04.wav' → 'KarimDouaidy_Yatora.wav'
+Renombrado: 'Lushlife_ToynbeeSuite_STEM_08.wav' → 'Lushlife_ToynbeeSuite.wav'
+Renombrado: 'PortStWillow_StayEven_STEM_10.wav' → 'PortStWillow_StayEven.wav'
+Renombrado: 'SecretMountains_HighHorse_STEM_01.wav' → 'SecretMountains_HighHorse.wav'
+Renombrado: 'StevenClark_Bounty_STEM_02.wav' → 'StevenClark_Bounty.wav'
+Renombrado: 'StrandOfOaks_Spacestation_STEM_01.wav' → 'StrandOfOaks_Spacestation.wav'
+Renombrado: 'SweetLights_YouLetMeDown_STEM_02.wav' → 'SweetLights_YouLetMeDown.wav'
+Renombrado: 'AimeeNorwich_Child_STEM_04.wav' → 'AimeeNorwich_Child.wav'
+Renombrado: 'BrandonWebster_DontHearAThing_STEM_02.wav' → 'BrandonWebster_DontHearAThing.wav'
+Renombrado: 'ClaraBerryAndWooldog_AirTraffic_STEM_07.wav' → 'ClaraBerryAndWooldog_AirTraffic.wav'
+Ignorado: 'ClaraBerryAndWooldog_AirTraffic_STEM_08.wav' → 'ClaraBerryAndWooldog_AirTraffic.wav' (ya existe)
+Renombrado: 'ClaraBerryAndWooldog_Boys_STEM_06.wav' → 'ClaraBerryAndWooldog_Boys.wav'
+Renombrado: 'ClaraBerryAndWooldog_Stella_STEM_07.wav' → 'ClaraBerryAndWooldog_Stella.wav'
+Renombrado: 'ClaraBerryAndWooldog_TheBadGuys_STEM_02.wav' → 'ClaraBerryAndWooldog_TheBadGuys.wav'
+Renombrado: 'ClaraBerryAndWooldog_WaltzForMyVictims_STEM_05.wav' → 'ClaraBerryAndWooldog_WaltzForMyVictims.wav'
+Renombrado: 'Handel_TornamiAVagheggiar_STEM_01.wav' → 'Handel_TornamiAVagheggiar.wav'
+Renombrado: 'MatthewEntwistle_Lontano_STEM_02.wav' → 'MatthewEntwistle_Lontano.wav'
+Renombrado: 'Mozart_BesterJungling_STEM_01.wav' → 'Mozart_BesterJungling.wav'
+Renombrado: 'Schumann_Mignon_STEM_02.wav' → 'Schumann_Mignon.wav'
+Renombrado: 'SecretMountains_HighHorse_STEM_09.wav' → 'SecretMountains_HighHorse.wav'
+Renombrado: 'Wolf_DieBekherte_STEM_01.wav' → 'Wolf_DieBekherte.wav'
+Renombrado: 'JoelHelander_Definition_STEM_09.wav' → 'JoelHelander_Definition.wav'
+Ignorado: 'JoelHelander_Definition_STEM_10.wav' → 'JoelHelander_Definition.wav' (ya existe)
+Renombrado: 'MatthewEntwistle_AnEveningWithOliver_STEM_12.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav'
+Renombrado: 'MatthewEntwistle_FairerHopes_STEM_14.wav' → 'MatthewEntwistle_FairerHopes.wav'
+Renombrado: 'MatthewEntwistle_TheArch_STEM_07.wav' → 'MatthewEntwistle_TheArch.wav'
+Renombrado: 'JoelHelander_Definition_STEM_11.wav' → 'JoelHelander_Definition.wav'
+Renombrado: 'JoelHelander_ExcessiveResistancetoChange_STEM_10.wav' → 'JoelHelander_ExcessiveResistancetoChange.wav'
+Renombrado: 'MatthewEntwistle_FairerHopes_STEM_11.wav' → 'MatthewEntwistle_FairerHopes.wav'
+Ignorado: 'MatthewEntwistle_FairerHopes_STEM_12.wav' → 'MatthewEntwistle_FairerHopes.wav' (ya existe)
+Renombrado: 'MatthewEntwistle_AnEveningWithOliver_STEM_10.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav'
+Renombrado: 'MatthewEntwistle_TheArch_STEM_09.wav' → 'MatthewEntwistle_TheArch.wav'
+Renombrado: 'AimeeNorwich_Flying_STEM_02.wav' → 'AimeeNorwich_Flying.wav'
+Ignorado: 'AimeeNorwich_Flying_STEM_06.wav' → 'AimeeNorwich_Flying.wav' (ya existe)
+Ignorado: 'AimeeNorwich_Flying_STEM_07.wav' → 'AimeeNorwich_Flying.wav' (ya existe)
+Ignorado: 'AimeeNorwich_Flying_STEM_08.wav' → 'AimeeNorwich_Flying.wav' (ya existe)
+Ignorado: 'AimeeNorwich_Flying_STEM_12.wav' → 'AimeeNorwich_Flying.wav' (ya existe)
+Renombrado: 'Grants_PunchDrunk_STEM_06.wav' → 'Grants_PunchDrunk.wav'
+Ignorado: 'Grants_PunchDrunk_STEM_10.wav' → 'Grants_PunchDrunk.wav' (ya existe)
+Renombrado: 'Lushlife_ToynbeeSuite_STEM_15.wav' → 'Lushlife_ToynbeeSuite.wav'
+Ignorado: 'Lushlife_ToynbeeSuite_STEM_20.wav' → 'Lushlife_ToynbeeSuite.wav' (ya existe)
+Renombrado: 'MatthewEntwistle_ImpressionsOfSaturn_STEM_02.wav' → 'MatthewEntwistle_ImpressionsOfSaturn.wav'
+Ignorado: 'MatthewEntwistle_ImpressionsOfSaturn_STEM_03.wav' → 'MatthewEntwistle_ImpressionsOfSaturn.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_ImpressionsOfSaturn_STEM_04.wav' → 'MatthewEntwistle_ImpressionsOfSaturn.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_ImpressionsOfSaturn_STEM_05.wav' → 'MatthewEntwistle_ImpressionsOfSaturn.wav' (ya existe)
+Renombrado: 'MatthewEntwistle_TheArch_STEM_01.wav' → 'MatthewEntwistle_TheArch.wav'
+Ignorado: 'MatthewEntwistle_TheArch_STEM_02.wav' → 'MatthewEntwistle_TheArch.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_TheArch_STEM_08.wav' → 'MatthewEntwistle_TheArch.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_TheArch_STEM_17.wav' → 'MatthewEntwistle_TheArch.wav' (ya existe)
+Renombrado: 'PortStWillow_StayEven_STEM_11.wav' → 'PortStWillow_StayEven.wav'
+Renombrado: 'SecretMountains_HighHorse_STEM_06.wav' → 'SecretMountains_HighHorse.wav'
+Ignorado: 'SecretMountains_HighHorse_STEM_10.wav' → 'SecretMountains_HighHorse.wav' (ya existe)
+Renombrado: 'ClaraBerryAndWooldog_WaltzForMyVictims_STEM_04.wav' → 'ClaraBerryAndWooldog_WaltzForMyVictims.wav'
+Renombrado: 'Lushlife_ToynbeeSuite_STEM_09.wav' → 'Lushlife_ToynbeeSuite.wav'
+Renombrado: 'MatthewEntwistle_AnEveningWithOliver_STEM_08.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav'
+Renombrado: 'MatthewEntwistle_FairerHopes_STEM_09.wav' → 'MatthewEntwistle_FairerHopes.wav'
+Renombrado: 'MatthewEntwistle_TheArch_STEM_04.wav' → 'MatthewEntwistle_TheArch.wav'
+Renombrado: 'MatthewEntwistle_AnEveningWithOliver_STEM_09.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav'
+Renombrado: 'MatthewEntwistle_FairerHopes_STEM_10.wav' → 'MatthewEntwistle_FairerHopes.wav'
+Renombrado: 'Auctioneer_OurFutureFaces_STEM_06.wav' → 'Auctioneer_OurFutureFaces.wav'
+Renombrado: 'JoelHelander_Definition_STEM_13.wav' → 'JoelHelander_Definition.wav'
+Renombrado: 'JoelHelander_ExcessiveResistancetoChange_STEM_12.wav' → 'JoelHelander_ExcessiveResistancetoChange.wav'
+Renombrado: 'Lushlife_ToynbeeSuite_STEM_13.wav' → 'Lushlife_ToynbeeSuite.wav'
+Renombrado: 'ClaraBerryAndWooldog_AirTraffic_STEM_05.wav' → 'ClaraBerryAndWooldog_AirTraffic.wav'
+Renombrado: 'Grants_PunchDrunk_STEM_03.wav' → 'Grants_PunchDrunk.wav'
+Ignorado: 'Grants_PunchDrunk_STEM_04.wav' → 'Grants_PunchDrunk.wav' (ya existe)
+Ignorado: 'Grants_PunchDrunk_STEM_07.wav' → 'Grants_PunchDrunk.wav' (ya existe)
+Renombrado: 'Lushlife_ToynbeeSuite_STEM_17.wav' → 'Lushlife_ToynbeeSuite.wav'
+Ignorado: 'Lushlife_ToynbeeSuite_STEM_18.wav' → 'Lushlife_ToynbeeSuite.wav' (ya existe)
+Ignorado: 'Lushlife_ToynbeeSuite_STEM_26.wav' → 'Lushlife_ToynbeeSuite.wav' (ya existe)
+Renombrado: 'Auctioneer_OurFutureFaces_STEM_08.wav' → 'Auctioneer_OurFutureFaces.wav'
+Renombrado: 'BrandonWebster_YesSirICanFly_STEM_02.wav' → 'BrandonWebster_YesSirICanFly.wav'
+Renombrado: 'Debussy_LenfantProdigue_STEM_01.wav' → 'Debussy_LenfantProdigue.wav'
+Renombrado: 'MatthewEntwistle_DontYouEver_STEM_07.wav' → 'MatthewEntwistle_DontYouEver.wav'
+Renombrado: 'Mozart_DiesBildnis_STEM_01.wav' → 'Mozart_DiesBildnis.wav'
+Renombrado: 'PortStWillow_StayEven_STEM_08.wav' → 'PortStWillow_StayEven.wav'
+Renombrado: 'Schubert_Erstarrung_STEM_01.wav' → 'Schubert_Erstarrung.wav'
+Renombrado: 'StevenClark_Bounty_STEM_07.wav' → 'StevenClark_Bounty.wav'
+Ignorado: 'StevenClark_Bounty_STEM_08.wav' → 'StevenClark_Bounty.wav' (ya existe)
+Renombrado: 'StrandOfOaks_Spacestation_STEM_04.wav' → 'StrandOfOaks_Spacestation.wav'
+Renombrado: 'SweetLights_YouLetMeDown_STEM_08.wav' → 'SweetLights_YouLetMeDown.wav'
+Renombrado: 'BrandonWebster_DontHearAThing_STEM_01.wav' → 'BrandonWebster_DontHearAThing.wav'
+Renombrado: 'MatthewEntwistle_AnEveningWithOliver_STEM_13.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav'
+Renombrado: 'KarimDouaidy_Hopscotch_STEM_07.wav' → 'KarimDouaidy_Hopscotch.wav'
+Renombrado: 'KarimDouaidy_Yatora_STEM_03.wav' → 'KarimDouaidy_Yatora.wav'
+Ignorado: 'AimeeNorwich_Child_STEM_06.wav' → 'AimeeNorwich_Child.wav' (ya existe)
+Ignorado: 'AimeeNorwich_Flying_STEM_09.wav' → 'AimeeNorwich_Flying.wav' (ya existe)
+Ignorado: 'Auctioneer_OurFutureFaces_STEM_10.wav' → 'Auctioneer_OurFutureFaces.wav' (ya existe)
+Ignorado: 'BrandonWebster_DontHearAThing_STEM_03.wav' → 'BrandonWebster_DontHearAThing.wav' (ya existe)
+Ignorado: 'BrandonWebster_YesSirICanFly_STEM_01.wav' → 'BrandonWebster_YesSirICanFly.wav' (ya existe)
+Ignorado: 'ClaraBerryAndWooldog_AirTraffic_STEM_06.wav' → 'ClaraBerryAndWooldog_AirTraffic.wav' (ya existe)
+Ignorado: 'ClaraBerryAndWooldog_Boys_STEM_05.wav' → 'ClaraBerryAndWooldog_Boys.wav' (ya existe)
+Ignorado: 'ClaraBerryAndWooldog_Stella_STEM_05.wav' → 'ClaraBerryAndWooldog_Stella.wav' (ya existe)
+Ignorado: 'ClaraBerryAndWooldog_TheBadGuys_STEM_01.wav' → 'ClaraBerryAndWooldog_TheBadGuys.wav' (ya existe)
+Ignorado: 'ClaraBerryAndWooldog_WaltzForMyVictims_STEM_03.wav' → 'ClaraBerryAndWooldog_WaltzForMyVictims.wav' (ya existe)
+Ignorado: 'CroqueMadame_Oil_STEM_01.wav' → 'CroqueMadame_Oil.wav' (ya existe)
+Ignorado: 'CroqueMadame_Pilot_STEM_01.wav' → 'CroqueMadame_Pilot.wav' (ya existe)
+Ignorado: 'Debussy_LenfantProdigue_STEM_02.wav' → 'Debussy_LenfantProdigue.wav' (ya existe)
+Ignorado: 'EthanHein_GirlOnABridge_STEM_02.wav' → 'EthanHein_GirlOnABridge.wav' (ya existe)
+Ignorado: 'Grants_PunchDrunk_STEM_09.wav' → 'Grants_PunchDrunk.wav' (ya existe)
+Ignorado: 'Handel_TornamiAVagheggiar_STEM_02.wav' → 'Handel_TornamiAVagheggiar.wav' (ya existe)
+Ignorado: 'JoelHelander_Definition_STEM_01.wav' → 'JoelHelander_Definition.wav' (ya existe)
+Ignorado: 'JoelHelander_ExcessiveResistancetoChange_STEM_03.wav' → 'JoelHelander_ExcessiveResistancetoChange.wav' (ya existe)
+Ignorado: 'KarimDouaidy_Hopscotch_STEM_09.wav' → 'KarimDouaidy_Hopscotch.wav' (ya existe)
+Ignorado: 'KarimDouaidy_Yatora_STEM_05.wav' → 'KarimDouaidy_Yatora.wav' (ya existe)
+Ignorado: 'Lushlife_ToynbeeSuite_STEM_23.wav' → 'Lushlife_ToynbeeSuite.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_AnEveningWithOliver_STEM_11.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_DontYouEver_STEM_02.wav' → 'MatthewEntwistle_DontYouEver.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_FairerHopes_STEM_13.wav' → 'MatthewEntwistle_FairerHopes.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_ImpressionsOfSaturn_STEM_06.wav' → 'MatthewEntwistle_ImpressionsOfSaturn.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_Lontano_STEM_01.wav' → 'MatthewEntwistle_Lontano.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_TheArch_STEM_18.wav' → 'MatthewEntwistle_TheArch.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_TheFlaxenField_STEM_03.wav' → 'MatthewEntwistle_TheFlaxenField.wav' (ya existe)
+Ignorado: 'MichaelKropf_AllGoodThings_STEM_01.wav' → 'MichaelKropf_AllGoodThings.wav' (ya existe)
+Ignorado: 'Mozart_BesterJungling_STEM_02.wav' → 'Mozart_BesterJungling.wav' (ya existe)
+Ignorado: 'Mozart_DiesBildnis_STEM_02.wav' → 'Mozart_DiesBildnis.wav' (ya existe)
+Ignorado: 'MusicDelta_BebopJazz_STEM_03.wav' → 'MusicDelta_BebopJazz.wav' (ya existe)
+Ignorado: 'MusicDelta_CoolJazz_STEM_03.wav' → 'MusicDelta_CoolJazz.wav' (ya existe)
+Ignorado: 'MusicDelta_ModalJazz_STEM_03.wav' → 'MusicDelta_ModalJazz.wav' (ya existe)
+Ignorado: 'MusicDelta_SwingJazz_STEM_03.wav' → 'MusicDelta_SwingJazz.wav' (ya existe)
+Ignorado: 'PortStWillow_StayEven_STEM_09.wav' → 'PortStWillow_StayEven.wav' (ya existe)
+Ignorado: 'Schubert_Erstarrung_STEM_02.wav' → 'Schubert_Erstarrung.wav' (ya existe)
+Ignorado: 'Schumann_Mignon_STEM_01.wav' → 'Schumann_Mignon.wav' (ya existe)
+Ignorado: 'SecretMountains_HighHorse_STEM_07.wav' → 'SecretMountains_HighHorse.wav' (ya existe)
+Ignorado: 'StevenClark_Bounty_STEM_09.wav' → 'StevenClark_Bounty.wav' (ya existe)
+Ignorado: 'StrandOfOaks_Spacestation_STEM_06.wav' → 'StrandOfOaks_Spacestation.wav' (ya existe)
+Ignorado: 'SweetLights_YouLetMeDown_STEM_09.wav' → 'SweetLights_YouLetMeDown.wav' (ya existe)
+Ignorado: 'Wolf_DieBekherte_STEM_02.wav' → 'Wolf_DieBekherte.wav' (ya existe)
+Renombrado: 'MatthewEntwistle_TheArch_STEM_11.wav' → 'MatthewEntwistle_TheArch.wav'
+Renombrado: 'Grants_PunchDrunk_STEM_01.wav' → 'Grants_PunchDrunk.wav'
+Ignorado: 'Grants_PunchDrunk_STEM_08.wav' → 'Grants_PunchDrunk.wav' (ya existe)
+Renombrado: 'Lushlife_ToynbeeSuite_STEM_25.wav' → 'Lushlife_ToynbeeSuite.wav'
+Renombrado: 'ClaraBerryAndWooldog_Boys_STEM_02.wav' → 'ClaraBerryAndWooldog_Boys.wav'
+Renombrado: 'JoelHelander_Definition_STEM_08.wav' → 'JoelHelander_Definition.wav'
+Renombrado: 'EthanHein_GirlOnABridge_STEM_04.wav' → 'EthanHein_GirlOnABridge.wav'
+Renombrado: 'JoelHelander_Definition_STEM_06.wav' → 'JoelHelander_Definition.wav'
+Renombrado: 'Lushlife_ToynbeeSuite_STEM_24.wav' → 'Lushlife_ToynbeeSuite.wav'
+Renombrado: 'MatthewEntwistle_FairerHopes_STEM_15.wav' → 'MatthewEntwistle_FairerHopes.wav'
+Renombrado: 'ClaraBerryAndWooldog_Stella_STEM_06.wav' → 'ClaraBerryAndWooldog_Stella.wav'
+Renombrado: 'EthanHein_GirlOnABridge_STEM_03.wav' → 'EthanHein_GirlOnABridge.wav'
+Renombrado: 'Lushlife_ToynbeeSuite_STEM_05.wav' → 'Lushlife_ToynbeeSuite.wav'
+Ignorado: 'Lushlife_ToynbeeSuite_STEM_16.wav' → 'Lushlife_ToynbeeSuite.wav' (ya existe)
+Ignorado: 'Lushlife_ToynbeeSuite_STEM_19.wav' → 'Lushlife_ToynbeeSuite.wav' (ya existe)
+Ignorado: 'Lushlife_ToynbeeSuite_STEM_21.wav' → 'Lushlife_ToynbeeSuite.wav' (ya existe)
+Renombrado: 'MatthewEntwistle_TheArch_STEM_03.wav' → 'MatthewEntwistle_TheArch.wav'
+Renombrado: 'SecretMountains_HighHorse_STEM_08.wav' → 'SecretMountains_HighHorse.wav'
+Renombrado: 'StevenClark_Bounty_STEM_04.wav' → 'StevenClark_Bounty.wav'
+Ignorado: 'StevenClark_Bounty_STEM_06.wav' → 'StevenClark_Bounty.wav' (ya existe)
+Ignorado: 'StevenClark_Bounty_STEM_10.wav' → 'StevenClark_Bounty.wav' (ya existe)
+Renombrado: 'StrandOfOaks_Spacestation_STEM_07.wav' → 'StrandOfOaks_Spacestation.wav'
+Renombrado: 'SweetLights_YouLetMeDown_STEM_04.wav' → 'SweetLights_YouLetMeDown.wav'
+Ignorado: 'SweetLights_YouLetMeDown_STEM_07.wav' → 'SweetLights_YouLetMeDown.wav' (ya existe)
+Ignorado: 'SweetLights_YouLetMeDown_STEM_10.wav' → 'SweetLights_YouLetMeDown.wav' (ya existe)
+Renombrado: 'ClaraBerryAndWooldog_Boys_STEM_09.wav' → 'ClaraBerryAndWooldog_Boys.wav'
+Renombrado: 'JoelHelander_ExcessiveResistancetoChange_STEM_01.wav' → 'JoelHelander_ExcessiveResistancetoChange.wav'
+Ignorado: 'JoelHelander_ExcessiveResistancetoChange_STEM_02.wav' → 'JoelHelander_ExcessiveResistancetoChange.wav' (ya existe)
+Ignorado: 'JoelHelander_ExcessiveResistancetoChange_STEM_04.wav' → 'JoelHelander_ExcessiveResistancetoChange.wav' (ya existe)
+Renombrado: 'StrandOfOaks_Spacestation_STEM_08.wav' → 'StrandOfOaks_Spacestation.wav'
+Renombrado: 'SweetLights_YouLetMeDown_STEM_11.wav' → 'SweetLights_YouLetMeDown.wav'
+Renombrado: 'ClaraBerryAndWooldog_Boys_STEM_08.wav' → 'ClaraBerryAndWooldog_Boys.wav'
+Renombrado: 'MusicDelta_BebopJazz_STEM_04.wav' → 'MusicDelta_BebopJazz.wav'
+Renombrado: 'MusicDelta_ModalJazz_STEM_04.wav' → 'MusicDelta_ModalJazz.wav'
+Renombrado: 'ClaraBerryAndWooldog_AirTraffic_STEM_02.wav' → 'ClaraBerryAndWooldog_AirTraffic.wav'
+Renombrado: 'ClaraBerryAndWooldog_Boys_STEM_04.wav' → 'ClaraBerryAndWooldog_Boys.wav'
+Renombrado: 'SweetLights_YouLetMeDown_STEM_12.wav' → 'SweetLights_YouLetMeDown.wav'
+Renombrado: 'AimeeNorwich_Flying_STEM_13.wav' → 'AimeeNorwich_Flying.wav'
+Ignorado: 'AimeeNorwich_Flying_STEM_14.wav' → 'AimeeNorwich_Flying.wav' (ya existe)
+Renombrado: 'JoelHelander_Definition_STEM_14.wav' → 'JoelHelander_Definition.wav'
+Renombrado: 'MatthewEntwistle_TheArch_STEM_12.wav' → 'MatthewEntwistle_TheArch.wav'
+Renombrado: 'JoelHelander_Definition_STEM_15.wav' → 'JoelHelander_Definition.wav'
+Renombrado: 'MusicDelta_BebopJazz_STEM_05.wav' → 'MusicDelta_BebopJazz.wav'
+Renombrado: 'MusicDelta_CoolJazz_STEM_05.wav' → 'MusicDelta_CoolJazz.wav'
+Renombrado: 'MusicDelta_ModalJazz_STEM_05.wav' → 'MusicDelta_ModalJazz.wav'
+Renombrado: 'Lushlife_ToynbeeSuite_STEM_14.wav' → 'Lushlife_ToynbeeSuite.wav'
+Renombrado: 'MatthewEntwistle_TheArch_STEM_13.wav' → 'MatthewEntwistle_TheArch.wav'
+Renombrado: 'Auctioneer_OurFutureFaces_STEM_07.wav' → 'Auctioneer_OurFutureFaces.wav'
+Renombrado: 'ClaraBerryAndWooldog_Stella_STEM_03.wav' → 'ClaraBerryAndWooldog_Stella.wav'
+Renombrado: 'JoelHelander_Definition_STEM_04.wav' → 'JoelHelander_Definition.wav'
+Renombrado: 'MatthewEntwistle_AnEveningWithOliver_STEM_14.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav'
+Ignorado: 'MatthewEntwistle_AnEveningWithOliver_STEM_15.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav' (ya existe)
+Renombrado: 'MatthewEntwistle_ImpressionsOfSaturn_STEM_07.wav' → 'MatthewEntwistle_ImpressionsOfSaturn.wav'
+Renombrado: 'MatthewEntwistle_TheArch_STEM_14.wav' → 'MatthewEntwistle_TheArch.wav'
+Renombrado: 'JoelHelander_Definition_STEM_02.wav' → 'JoelHelander_Definition.wav'
+Ignorado: 'JoelHelander_Definition_STEM_03.wav' → 'JoelHelander_Definition.wav' (ya existe)
+Renombrado: 'JoelHelander_ExcessiveResistancetoChange_STEM_13.wav' → 'JoelHelander_ExcessiveResistancetoChange.wav'
+Ignorado: 'JoelHelander_ExcessiveResistancetoChange_STEM_14.wav' → 'JoelHelander_ExcessiveResistancetoChange.wav' (ya existe)
+Renombrado: 'MatthewEntwistle_AnEveningWithOliver_STEM_16.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav'
+Ignorado: 'MatthewEntwistle_AnEveningWithOliver_STEM_17.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_AnEveningWithOliver_STEM_18.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_AnEveningWithOliver_STEM_19.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_AnEveningWithOliver_STEM_20.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_AnEveningWithOliver_STEM_21.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_AnEveningWithOliver_STEM_22.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_AnEveningWithOliver_STEM_23.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav' (ya existe)
+Renombrado: 'MatthewEntwistle_ImpressionsOfSaturn_STEM_08.wav' → 'MatthewEntwistle_ImpressionsOfSaturn.wav'
+Ignorado: 'MatthewEntwistle_ImpressionsOfSaturn_STEM_09.wav' → 'MatthewEntwistle_ImpressionsOfSaturn.wav' (ya existe)
+Renombrado: 'MatthewEntwistle_TheFlaxenField_STEM_04.wav' → 'MatthewEntwistle_TheFlaxenField.wav'
+Ignorado: 'MatthewEntwistle_TheFlaxenField_STEM_05.wav' → 'MatthewEntwistle_TheFlaxenField.wav' (ya existe)
+Renombrado: 'MichaelKropf_AllGoodThings_STEM_02.wav' → 'MichaelKropf_AllGoodThings.wav'
+Renombrado: 'JoelHelander_ExcessiveResistancetoChange_STEM_15.wav' → 'JoelHelander_ExcessiveResistancetoChange.wav'
+Renombrado: 'MatthewEntwistle_AnEveningWithOliver_STEM_24.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav'
+Renombrado: 'MatthewEntwistle_DontYouEver_STEM_05.wav' → 'MatthewEntwistle_DontYouEver.wav'
+Ignorado: 'MatthewEntwistle_DontYouEver_STEM_06.wav' → 'MatthewEntwistle_DontYouEver.wav' (ya existe)
+Renombrado: 'MatthewEntwistle_FairerHopes_STEM_16.wav' → 'MatthewEntwistle_FairerHopes.wav'
+Ignorado: 'MatthewEntwistle_FairerHopes_STEM_17.wav' → 'MatthewEntwistle_FairerHopes.wav' (ya existe)
+Ignorado: 'MatthewEntwistle_FairerHopes_STEM_18.wav' → 'MatthewEntwistle_FairerHopes.wav' (ya existe)
+Renombrado: 'MatthewEntwistle_TheArch_STEM_15.wav' → 'MatthewEntwistle_TheArch.wav'
+Ignorado: 'MatthewEntwistle_TheArch_STEM_16.wav' → 'MatthewEntwistle_TheArch.wav' (ya existe)
+Renombrado: 'AimeeNorwich_Child_STEM_05.wav' → 'AimeeNorwich_Child.wav'
+Renombrado: 'Auctioneer_OurFutureFaces_STEM_03.wav' → 'Auctioneer_OurFutureFaces.wav'
+Renombrado: 'ClaraBerryAndWooldog_Boys_STEM_07.wav' → 'ClaraBerryAndWooldog_Boys.wav'
+Renombrado: 'ClaraBerryAndWooldog_Stella_STEM_08.wav' → 'ClaraBerryAndWooldog_Stella.wav'
+Renombrado: 'MatthewEntwistle_AnEveningWithOliver_STEM_06.wav' → 'MatthewEntwistle_AnEveningWithOliver.wav'
+Renombrado: 'PortStWillow_StayEven_STEM_01.wav' → 'PortStWillow_StayEven.wav'
+Renombrado: 'SecretMountains_HighHorse_STEM_02.wav' → 'SecretMountains_HighHorse.wav'
+Renombrado: 'StevenClark_Bounty_STEM_03.wav' → 'StevenClark_Bounty.wav'
+Renombrado: 'StrandOfOaks_Spacestation_STEM_02.wav' → 'StrandOfOaks_Spacestation.wav'
+Renombrado: 'SweetLights_YouLetMeDown_STEM_03.wav' → 'SweetLights_YouLetMeDown.wav'
+
+Resumen:
+Archivos procesados: 333
+Archivos renombrados: 227
+Archivos ignorados: 106

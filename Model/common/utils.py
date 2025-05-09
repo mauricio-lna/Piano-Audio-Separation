@@ -7,7 +7,7 @@ import os
 from contextlib import contextmanager
 import tqdm
 from pathlib import Path
-import argbind
+from . import argbind
 
 @contextmanager
 def chdir(newdir):

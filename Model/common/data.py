@@ -13,8 +13,8 @@ import warnings
 from typing import Union, List
 import logging
 import os
-import argbind
-import utils
+from . import argbind
+from . import utils
 
 MAX_SOURCE_TIME = 10000
 LABELS = ['bass', 'drums', 'other', 'vocals']
